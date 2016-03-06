@@ -1,0 +1,841 @@
+	#838	2016/03/05	"Lars Kiesow"	"Fix several typos in the documentation"	lkiesow/matterhorn	documentation-typos	r/2.1.x	
+	#837	2016/02/29	"James Perrin"	"MH-11330, make sure dc:created is updated if event …"	jperrin/matterhorn	t/MH-11330-update-created-when…	r/1.6.x	"Karen Dolan (1)"
+D	#836	2016/02/26	"James Perrin"	"MH-11330, Correctly handle updating of MP start date and …"	jperrin/matterhorn	t/MH-11330-update-mp-start-dur…	r/1.6.x	
+M	#835	2016/02/26	"Tobias M Schiebeck"	"MH-11334 fixing NPE in userdirectory"	opencast-community/matterhorn	t/MH-11334-NPE-userdirectory	develop	"Rüdiger Rolf (3)"
+M	#834	2016/02/25	"Sven Stauber"	"t/MH-11332 Document acceptance criteria for proposals"	staubesv/switch-opencast-fork	t/MH-11332-document-acceptance…	r/2.1.x	"Lars Kiesow (8)"
+D	#833	2016/02/25	"Sven Stauber"	"t/MH-11332 Document acceptance criteria for proposals"	staubesv/switch-opencast-fork	t/MH-11332-document-acceptance…	r/2.1.x	
+M	#832	2016/02/25	"Sven Stauber"	"t/MH-11331 Document Proposal Documentation Pull Request …"	staubesv/switch-opencast-fork	t/MH-11331-proposal-documentat…	r/2.1.x	"Lars Kiesow (8)"
+	#831	2016/02/24	"Karen Dolan"	"MH-11327 clean up IngestImpl module dependencies"	kdolan/matterhorn-opencast	t/MH-11327-cleanup-ingestImpl-…	develop	"Lukas Rohner (3)"
+D	#830	2016/02/24	"Tobias M Schiebeck"	"MH-11326 DDL-Updates"	opencast-community/matterhorn	t/MH-11326-JPA-DDL-update	develop	
+M	#829	2016/02/23	"Karen Dolan"	"MH-11324 ensure local job is updated after updateJob"	kdolan/matterhorn-opencast	t/MH-11324-JobUpdateJob	develop	"Rüdiger Rolf (10)"
+M	#828	2016/02/22	"Basil Brunner"	"MH-10852 [Bugfix] Make sure job reference is updated before …"	entwinemedia/matterhorn	pr/MH-10852-bugfix	develop	"Rüdiger Rolf (11)"
+✔	#827	2016/02/21	"Lars Kiesow"	"MH-11128, Fix SilenceDetector Documentation"	lkiesow/matterhorn	t/MH-11128-silence-detection-d…	r/2.1.x	"Greg Logan (12)"
+✔	#826	2016/02/21	"Lars Kiesow"	"MH-11323, Update Workflow Documentation"	lkiesow/matterhorn	t/MH-11323-workflow-docs	r/2.1.x	
+	#825	2016/02/19	"Lars Kiesow"	"MH-11322, Update WebM Profiles"	lkiesow/matterhorn	t/MH-11322-webm-profiles	develop	
+	#824	2016/02/19	"Lars Kiesow"	"MH-11321, Fix default workflow configuration panel"	lkiesow/matterhorn	t/MH-11321-default-workflow-cf…	r/2.1.x	
+	#823	2016/02/19	"Lars Kiesow"	"MH-11320, Missing Image Preparation for OCR"	lkiesow/matterhorn	t/MH-11320-img-encoding-for-oc…	r/2.1.x	
+	#822	2016/02/19	"Lars Kiesow"	"MH-11319, Media Module Uses Second Attachment as Preview"	lkiesow/matterhorn	t/MH-11319-media-module-previe…	r/2.1.x	
+M	#821	2016/02/18	"Greg Logan"	"MH-11222: Remove System.*.print* from codebase"	greg_logan/matterhorn	t/MH-11222-system-out-println-…	r/2.1.x	"Lars Kiesow (16)"
+M	#820	2016/02/18	"Greg Logan"	"MH-11222: Remove System.*.print* from codebase"	greg_logan/matterhorn	t/MH-11222-system-out-println-…	develop	"Lars Kiesow (15)"
+	#819	2016/02/18	"Lars Kiesow"	"MH-11313, Update Parallel Encode Profiles"	lkiesow/matterhorn	f/MH-11313-update-parallel-enc…	develop	
+✔	#818	2016/02/18	"Lars Kiesow"	"MH-11312, Fix Encode WOH Documentation"	lkiesow/matterhorn	t/MH-11312-encode-woh-docs	develop	
+	#817	2016/02/18	"Denis Meyer"	"MH-11286 Update player dependencies"	CallToPower/matterhorn	t/MH-11286-update-player-depen…	develop	"Basil Brunner (16)"
+M	#816	2016/02/18	"Basil Brunner"	"Remove file that got merged into wrong location"	myniva/matterhorn	pr/remove-unused-file	develop	"Lars Kiesow (16)"
+M	#815	2016/02/17	"Sven Stauber"	"MH-11311 Use existing encoding profiles in WOH …"	staubesv/switch-opencast	t/MH-11311-use-existing-encodi…	develop	"Rüdiger Rolf (16)"
+M	#814	2016/02/17	"Sven Stauber"	"MH-11310 Document encoding profiles used by WOH …"	staubesv/switch-opencast	t/MH-11310-document-encoding-p…	develop	"Rüdiger Rolf (16)"
+	#813	2016/02/17	"Michael Stypa"	"MH-11309 open player links in new tab"	doofy/matterhorn	t/MH-11309-event-details-open-…	r/2.1.x	
+M	#812	2016/02/17	"Lars Kiesow"	"MH-11289, Fixed Encoding Profile names"	lkiesow/matterhorn	t/MH-11289-encoding-profile-na…	develop	"Greg Logan (17)"
+M	#811	2016/02/16	"Lars Kiesow"	"Nexus Documentation And Settings"	lkiesow/matterhorn	nexus-docs	r/2.1.x	"Ruben Perez Vazquez (18)"
+	#810	2016/02/16	"Lars Kiesow"	"MH-11229, Fix WOH Unit Test Sleeps"	lkiesow/matterhorn	t/MH-11229-woh-tests	r/2.1.x	"Basil Brunner (17)"
+D	#809	2016/02/15	"Lars Kiesow"	"MH-11229, Fix SoX WOH Unit Test Sleeps"	lkiesow/matterhorn	t/MH-11229-sox-woh-tests	r/2.1.x	
+	#808	2016/02/15	"Lars Kiesow"	"MH-11307, Distribution Service Location"	lkiesow/matterhorn	t/MH-11307-distribution-servic…	r/2.1.x	"Greg Logan (18)"
+M	#807	2016/02/15	"Lars Kiesow"	"Opencast Infrastructure Documentation"	lkiesow/matterhorn	infra-docs	r/2.1.x	"Ruben Perez Vazquez (18)"
+	#806	2016/02/12	"Rute Santos"	"MH-11306-job-dispatch-order (develop)"	opencast-community/matterhorn	t/MH-11306-job-dispatch-order-…	develop	"Basil Brunner (17)"
+D	#805	2016/02/12	"Rute Santos"	"MH-11306-job-dispatch-order (develop)"	opencast-community/matterhorn	t/MH-11306-job-dispatch-order	develop	
+	#804	2016/02/12	"Rute Santos"	MH-11306-job-dispatch-order-1.7.x	opencast-community/matterhorn	t/MH-11306-job-dispatch-order-…	r/1.7.x	
+M	#803	2016/02/12	"Lars Kiesow"	"MH-11301 Typo error at ng-partial-publish workflow"	lkiesow/matterhorn	t/mh-11301-workflow-typo	r/2.1.x	"Ruben Perez Vazquez (19)"
+M	#802	2016/02/06	"Sven Stauber"	"MH-11304 Documentation for WOH partial-import and load …"	staubesv/switch-opencast	t/MH-11305-list-all-pages-in-p…	develop	"Lars Kiesow (26)"
+D	#801	2016/02/06	"Sven Stauber"	"MH-11304 Documentation for WOH partial-import is not linked …"	staubesv/switch-opencast	t/MH-11304-fix-missing-woh-par…	develop	
+M	#800	2016/02/05	"Paul Pettit"	"MH-11283 Fix mediapackage returned by post-mediapackage WOH"	ppettit/matterhorn	t/MH-11283-post-mediapackage-W…	develop	"Lars Kiesow (26)"
+M	#799	2016/02/05	"Stefanos Georgopoulos"	"MH-11301 Typo error at ng-partial-publish workflow"	stefanosgeo13/matterhorn	MH-11301-Typo-error-at-ng-part…	develop	"Lars Kiesow (26)"
+M	#798	2016/02/04	"Sven Stauber"	"MH-11300 WOH partial-import looses partial audio tracks …"	staubesv/switch-opencast	t/MH-11300-partial-import-lost…	develop	"Rüdiger Rolf (9)"
+	#797	2016/02/04	"Lars Kiesow"	"MH-10869, ActiveMQ Configuration and Connection Problems"	lkiesow/matterhorn	t/MH-10869-message-broker-fixe…	r/2.1.x	"Tobias M Schiebeck (4)"
+M	#796	2016/02/03	"Lars Kiesow"	"MH-11298, Fix json-simple version specification"	lkiesow/matterhorn	t/MH-11298-json-simple-version	r/2.1.x	"Lukas Rohner (24)"
+M	#795	2016/02/03	"Jay Luker"	"MH-11295 create new, local readBuffer for each chunk"	lbjay/matterhorn	t/MH-11295-file-upload-corrupt…	r/1.7.x	"Rüdiger Rolf (30)"
+M	#794	2016/02/03	"Jay Luker"	"MH-11295 create new, local readBuffer for each chunk"	lbjay/matterhorn	t/MH-11295-file-upload-corrupt…	r/1.6.x	"Rüdiger Rolf (30)"
+M	#793	2016/02/02	"Karen Dolan"	"T/mh 11296 lti post context 2.1.x"	kdolan/matterhorn-opencast	t/MH-11296-LTI-post-context-2.…	r/2.1.x	"Lukas Rohner (24)"
+M	#792	2016/02/02	"Jay Luker"	"MH-11295 create new, local readBuffer for each chunk"	lbjay/matterhorn	t/MH-11295-file-upload-corrupt…	r/2.1.x	"Lars Kiesow (31)"
+D	#791	2016/01/29	"Jay Luker"	"MH-11295 create new, local readBuffer for each chunk"	lbjay/matterhorn	t/MH-11295-file-upload-corrupt…	develop	
+D	#790	2016/01/28	"James Perrin"	"MH-11293, Fix old Nexus Dependencies"	jperrin/matterhorn	t/MH-11293-fix-old-nexus-deps-…	r/1.7.x	"Lars Kiesow (36)"
+M	#789	2016/01/28	"James Perrin"	"MH-11293, Fix old Nexus Dependencies"	jperrin/matterhorn	t/MH-11293-fix-old-nexus-deps-…	r/1.6.x	"Lars Kiesow (36)"
+M	#788	2016/01/26	"Simon Hötten"	"MH-11121, update the Mac OSX installation guide to reflect …"	shoetten/matterhorn-fork	t/MH-11121-update-osx-install-…	r/2.1.x	"Lukas Rohner (24)"
+M	#787	2016/01/25	"Lars Kiesow"	"Updated Installation From RPM"	lkiesow/matterhorn	t/rpm-guides	r/2.1.x	"Greg Logan (9)"
+M	#786	2016/01/25	"Rute Santos"	"MH-11288-update-java-version-pom Updated minimum version to …"	hudcede/opencast-matterhorn-fork-1.7	t/MH-11288-update-java-version…	r/1.7.x	"Michael Stypa (38)"
+M	#785	2016/01/25	"Lars Kiesow"	"MH-11287, Update Apereo/Apache License Documentation"	lkiesow/matterhorn	t/MH-11287-license-docs	r/2.1.x	"Ruben Perez Vazquez (36)"
+	#784	2016/01/22	"Ruben Perez Vazquez"	"LDAP Authentication for 2.1.x"	uni-koeln/matterhorn-uni-k-ln	t/MH-8577-ldap-auth-2.1.x	r/2.1.x	"James Perrin (3)"
+	#783	2016/01/20	"Rüdiger Rolf"	"MH-11285 added documentation for remote debugging."	opencast-community/matterhorn	t/MH-11285-karaf-remote-debugg…	develop	"Ruben Perez Vazquez (37)"
+D	#782	2016/01/19	"Simon Hötten"	"MH-11284, update the Mac OSX installation guide to reflect …"	shoetten/matterhorn-fork	t/MH-11284-update-osx-install-…	develop	
+M	#781	2016/01/19	"Karen Dolan"	"MH-11220 SearchQuery searchByDescription typo fix"	kdolan/matterhorn-opencast	t/MH-11220-SearchQuery-searchB…	r/2.1.x	"Lars Kiesow (43)"
+M	#780	2016/01/18	"Lars Kiesow"	"Remove static Opencast version from index.html"	lkiesow/matterhorn	index-opencast-version	r/2.1.x	"Greg Logan (47)"
+M	#779	2016/01/18	"Sven Stauber"	"MH-11183 Locations search box not implemented"	staubesv/switch-opencast	t/MH-11183-locations-search-bo…	r/2.1.x	"Lars Kiesow (47)"
+M	#778	2016/01/15	"Lars Kiesow"	"MH-11280, Fix old Nexus Dependencies"	lkiesow/matterhorn	t/MH-11280-old-nexus	r/2.1.x	"Greg Logan (50)"
+	#777	2016/01/15	"Ruben Perez Vazquez"	"LDAP Authentication for 1.6.x"	uni-koeln/matterhorn-uni-k-ln	t/MH-8577-ldap-auth	r/1.6.x	"James Perrin (4)"
+D	#776	2016/01/15	"Ruben Perez Vazquez"	"Create working alternative to authenticate users against …"	uni-koeln/matterhorn-uni-k-ln	fix-ldap	r/1.6.x	
+M	#775	2016/01/14	"Sven Stauber"	"MH-11156 Users: Search box is not implemented"	staubesv/switch-opencast	t/MH-11156-users-search-box-no…	r/2.1.x	"Lars Kiesow (50)"
+M	#774	2016/01/14	"Lars Kiesow"	"MH-11276, Fix HTTP Notification WOH"	lkiesow/matterhorn	t/MH-11276-http-notification-t…	r/2.1.x	"Greg Logan (47)"
+M	#773	2016/01/14	"Sven Stauber"	"T/mh 11107 group list pagination not working"	staubesv/switch-opencast	t/MH-11107-group-list-paginati…	r/2.1.x	"Lars Kiesow (47)"
+M	#772	2016/01/13	"Lars Kiesow"	"MH-11146 Temporarily Fix for Feed/Worker"	lkiesow/matterhorn	t/MH-11146-feed	r/2.1.x	"Tobias M Schiebeck (52)"
+	#771	2016/01/11	"Greg Logan"	"T/mh 9738 customizing email body"	greg_logan/matterhorn	t/MH-9738-customizing-email-bo…	develop	
+M	#770	2016/01/07	"Lars Kiesow"	"MH-11266, Logger ConversionPattern stated twice"	lkiesow/matterhorn	t/MH-11266-logger-conversionpa…	r/2.1.x	"Greg Logan (52)"
+M	#769	2016/01/07	"Lars Kiesow"	"MH-11265, Ensure config files end with newline"	lkiesow/matterhorn	t/MH-11265-cfg-newline	r/2.1.x	"Greg Logan (52)"
+M	#768	2016/01/07	"Christian Greweling"	"T/mh 11209 lti documentation"	cgreweling/matterhorn	t/MH-11209-LTI-Documentation	develop	"Edmore Moyo (38)"
+M	#767	2016/01/06	"Basil Brunner"	"MH-11263 [Workaround] Fix broken worker assembly"	entwinemedia/matterhorn	pr/MH-11263-fix-broken-worker-…	r/2.1.x	"Greg Logan (59)"
+	#766	2016/01/05	"Sven Stauber"	"MH-11262 Replaced WOH prepare-av configuration key …"	staubesv/switch-opencast	f/MH-11262-prepare-av-audio-mu…	develop	
+M	#765	2015/12/28	"Per Pascal Grube"	"fixed typo in NormalizeAudioWorkflowOperationHandler"	pascalgrube/matterhorn-1	pascalgrube/fixed-typo-in-norm…	develop	"Rüdiger Rolf (52)"
+✔	#764	2015/12/22	"Sven Stauber"	"MH-11261 Add column 'email' to users table"	staubesv/switch-opencast	f/MH-11261-add-column-email-to…	develop	"Greg Logan (73)"
+M	#763	2015/12/15	"Lars Kiesow"	"MH-11258, Make host configuration easier"	opencast-community/matterhorn	t/MH-11258-host-configuration	r/2.1.x	"Edmore Moyo (80)"
+M	#762	2015/12/15	"Lars Kiesow"	"MH-11257, Deprecated Mkdocs Config"	opencast-community/matterhorn	t/MH-11257-mkdocs-config	r/2.1.x	"Tobias M Schiebeck (80)"
+M	#761	2015/12/15	"Lars Kiesow"	"Fix Apply ACL WOH"	lkiesow/matterhorn	fix-apply-acl-woh	r/2.0.x	
+M	#760	2015/12/14	"Lars Kiesow"	"MH-11236, ACL Publication Fix"	lkiesow/matterhorn	t/MH-11236-acl-20	r/2.0.x	
+M	#759	2015/12/14	"Lars Kiesow"	"MH-11236, ACL Publication Fix"	lkiesow/matterhorn	t/MH-11236-acl	r/2.1.x	
+M	#758	2015/12/14	"Rüdiger Rolf"	"MH-11151 fixed detection if player is using Flash fallback"	opencast-community/matterhorn	t/MH-11151-deactivate-playback…	r/2.1.x	"Tobias M Schiebeck (80)"
+M	#757	2015/12/14	"Lars Kiesow"	"MH-11253, Fixes Engage UI Welcome Page"	lkiesow/matterhorn	t/MH-11253-engage-ui-404	r/2.1.x	"Tobias M Schiebeck (82)"
+M	#756	2015/12/14	"Rüdiger Rolf"	"MH-11193 changed volume slider to start with no volume"	opencast-community/matterhorn	t/MH-11193-zero-volume	r/2.1.x	"Tobias M Schiebeck (82)"
+M	#755	2015/12/14	"Lars Kiesow"	"MH-11237, Minor fixes to service files"	lkiesow/matterhorn	t/MH-11237-service-files	r/2.1.x	"Edmore Moyo (82)"
+M	#754	2015/12/11	"Rüdiger Rolf"	"MH-11089 player fullscreen fix, with several other video …"	opencast-community/matterhorn	t/MH-11089-player-fullscreen	r/2.1.x	"Tobias M Schiebeck (80)"
+M	#753	2015/12/11	"Basil Brunner"	"MH-11254 Add translations for Chinese Traditional"	entwinemedia/matterhorn	pr/MH-11254-chinese-traditiona…	r/2.1.x	"Tobias M Schiebeck (85)"
+M	#752	2015/12/10	"Tobias M Schiebeck"	"i18n related issues (MH-11109, MH-11126, MH-11130, …"	opencast-community/matterhorn	t/MH-11126-crowdin-update	r/2.1.x	"Lars Kiesow (81)"
+M	#751	2015/12/09	"Michael Stypa"	"MH-11235 limit the series title length to 255 characters. …"	doofy/matterhorn	MH-11235-series-title-length-c…	r/2.1.x	"Tobias M Schiebeck (87)"
+M	#750	2015/12/08	"Greg Logan"	"MH-10979: Job Load Cleanup"	greg_logan/matterhorn	f/MH-10979-job-load	develop	"Basil Brunner (86)"
+M	#749	2015/12/08	"Basil Brunner"	"MH-11252 Rename configuration files to comply with Karaf …"	entwinemedia/matterhorn	pr/MH-11252-move-config-files	develop	"Greg Logan (88)"
+M	#748	2015/12/07	"Lars Kiesow"	"MH-11251, Fix Capture Admin Tests"	lkiesow/matterhorn	t/MH-11251-capture-admin-tests	r/2.1.x	"Lukas Rohner (88)"
+M	#747	2015/12/07	"Lars Kiesow"	"MH-11250, Use Karaf Tmp for Temporary Files"	lkiesow/matterhorn	t/MH-11250-karaf-tmp	r/2.1.x	"Tobias M Schiebeck (88)"
+M	#746	2015/12/07	"Lars Kiesow"	"MH-11249, Replace Apply-ACL with Series WOH Docs"	lkiesow/matterhorn	t/MH-11249-woh-docs	r/2.1.x	"Lukas Rohner (88)"
+M	#745	2015/12/07	"Lars Kiesow"	"MH-11237, Opencast System Service Files"	lkiesow/matterhorn	t/MH-11237-service-files	r/2.1.x	"Edmore Moyo (85)"
+M	#744	2015/12/04	"James Perrin"	"MH-11247, Fixed, don't assume anonymous role has view …"	opencast-community/matterhorn	t/MH-11247-edit-public-acl	r/1.6.x	
+M	#743	2015/12/04	"Lars Kiesow"	"MH-11248, Publish-Engage Workflow Operation Documentation"	lkiesow/matterhorn	t/MH-11248-publish-engage-woh-…	r/2.1.x	"Lukas Rohner (88)"
+M	#742	2015/12/04	"Basil Brunner"	"MH-11146 [Bugfix] Make sure feeds servlet gets registered …"	entwinemedia/matterhorn	t/MH-11146-feeds-servlet-not-r…	r/2.1.x	"Tobias M Schiebeck (89)"
+M	#741	2015/12/04	"Lars Kiesow"	"MH-11175, MH-11206, MH-11225, MH-11226, MH-11227, User …"	lkiesow/matterhorn	user-endpoint-20	r/2.0.x	"Tobias M Schiebeck (92)"
+M	#740	2015/12/04	"Tobias M Schiebeck"	"MH-11126 fix translations"	opencast-community/matterhorn	t/MH-11126-fix-translations	r/2.1.x	"Lars Kiesow (92)"
+M	#739	2015/12/01	"Waldemar Smirnow"	"MH-11238, silencedetection service parse ffmpeg binary path …"	wsmirnow/matterhorn	t/MH-11238-silencedetection-ff…	r/2.1.x	"Greg Logan (88)"
+M	#738	2015/12/01	"Waldemar Smirnow"	"MH-11238, silencedetection service parse ffmpeg binary path …"	wsmirnow/matterhorn	t/MH-11238-silencedetection-ff…	r/2.0.x	"Greg Logan (88)"
+M	#737	2015/12/01	"Waldemar Smirnow"	"MH-11238, silencedetection service parse ffmpeg binary path …"	wsmirnow/matterhorn	t/MH-11238-silencedetection-ff…	r/1.6.x	"Greg Logan (88)"
+M	#736	2015/12/01	"Greg Logan"	"MH-11239: Fix for compilation issue."	greg_logan/matterhorn	t/MH-11239-develop-compile-iss…	develop	"Tobias M Schiebeck (95)"
+M	#735	2015/11/30	"Lars Kiesow"	"MH-11234, Admin-NG throws a couple of 404 errors"	lkiesow/matterhorn	t/MH-11234-admin-ui-404	r/2.1.x	"Tobias M Schiebeck (95)"
+M	#734	2015/11/25	"Rüdiger Rolf"	"MH-11079 Login-screen can now be shown in mobile and embed …"	opencast-community/matterhorn	t/MH-11079-embed-player-login-…	r/2.0.x	"Tobias M Schiebeck (81)"
+M	#733	2015/11/25	"Rüdiger Rolf"	"MH-11079 Login-screen can now be shown in mobile and embed …"	opencast-community/matterhorn	t/MH-11079-embed-player-login	r/2.1.x	"Tobias M Schiebeck (82)"
+M	#732	2015/11/23	"Tobias M Schiebeck"	"event metadata and event comment fixes"	opencast-community/matterhorn	f/MH-10818-event-metadata-crea…	r/2.1.x	"Rüdiger Rolf (102)"
+	#731	2015/11/23	"Henning S."	"F/mh 10844 Zoom for Videos"	hstruebe/ocmh	f/MH-10844-zoom-for-videos	develop	"Greg Logan (18)"
+M	#730	2015/11/23	"Simon Hötten"	"MH-11230, improve dev docs with info on how to efficiently …"	shoetten/matterhorn-fork	f/MH-11230-add-bundle-watch-cm…	develop	"Greg Logan (81)"
+M	#729	2015/11/19	"Lars Kiesow"	"MH-11175, MH-11206, MH-11225, MH-11226, MH-11227, User …"	lkiesow/matterhorn	t/user-endpoint	r/2.1.x	"Tobias M Schiebeck (103)"
+M	#728	2015/11/18	"Lars Kiesow"	"MH-11223, Remove Unused Files"	lkiesow/matterhorn	t/MH-11223-unused-files	r/2.1.x	"Lukas Rohner (107)"
+M	#727	2015/11/18	"Lars Kiesow"	"MH-11212, Main Pom Clean-Up"	opencast-community/matterhorn	t/MH-11212-pom-xml	r/2.1.x	"Tobias M Schiebeck (107)"
+M	#726	2015/11/17	"Greg Logan"	"MH-11221: Fixing confusing messages and incident reports in …"	greg_logan/matterhorn	t/MH-11211-composer-confusion-…	r/1.7.x	"Lars Kiesow (108)"
+M	#725	2015/11/17	"Greg Logan"	"MH-11221: Fixing confusing messages and incident reports in …"	greg_logan/matterhorn	t/MH-11211-composer-confusion	r/2.0.x	"Lars Kiesow (108)"
+M	#724	2015/11/17	"Greg Logan"	"MH-11221: Fixing confusing messages and incident reports in …"	greg_logan/matterhorn	t/MH-11211-composer-confusion	r/2.1.x	"Lars Kiesow (108)"
+D	#723	2015/11/17	"Karen Dolan"	"MH-11220 fix SchedulerQuery setter bug"	opencast-community/matterhorn	t/MH-11220-SearchQuery-searchB…	develop	"Lars Kiesow (47)"
+M	#722	2015/11/16	"Lars Kiesow"	"MH-11219, Karaf based Solr configuration"	lkiesow/matterhorn	t/MH-11219-solr-configuration	r/2.1.x	"Tobias M Schiebeck (102)"
+D	#721	2015/11/16	"Simon Hötten"	"MH-11216, brings back -DdeployTo functionality to karaf."	shoetten/matterhorn-fork	t/MH-11216-add-DdeployTo-for-k…	r/2.1.x	
+M	#720	2015/11/16	"Christoph Drießen"	"MH-11136 [BugFix] update read only metadata fields when …"	entwinemedia/matterhorn	t/MH-11136-event-details-not-u…	r/2.1.x	"Rüdiger Rolf (103)"
+M	#719	2015/11/13	"Lukas Rohner"	"MH-11158 Fixed time editing of player directive"	entwinemedia/matterhorn	t/MH-11158-player-time	r/2.1.x	"Lars Kiesow (106)"
+M	#718	2015/11/13	"Basil Brunner"	"MH-11160 Fixed overriting duplicated group names"	entwinemedia/matterhorn	t/MH-11160-existing-group	r/2.1.x	"Tobias M Schiebeck (108)"
+M	#717	2015/11/13	"Basil Brunner"	"MH-11153 Make sure resource model service navigation …"	entwinemedia/matterhorn	t/MH-11153-acl-navigation	r/2.1.x	"Lars Kiesow (108)"
+M	#716	2015/11/13	"Basil Brunner"	"MH-11101 [Bugfix] Fix Static Files Service REST endpoint"	entwinemedia/matterhorn	t/MH-11101-static-files-not-do…	r/2.1.x	"Rüdiger Rolf (103)"
+M	#715	2015/11/12	"Christoph Drießen"	"MH-11099 [BugFix] call $scope.save() to save ACL"	entwinemedia/matterhorn	t/MH-11099-remove-role-from-ac…	r/2.1.x	"Lars Kiesow (106)"
+M	#714	2015/11/12	"Christoph Drießen"	"MH-11155 remove obsolete role ROLE_INSTRUCTOR"	entwinemedia/matterhorn	t/MH-11155-remove-obsolete-ins…	r/2.1.x	"Rüdiger Rolf (103)"
+M	#713	2015/11/12	"Lukas Rohner"	"MH-11189 Disable submit task button when clicking"	entwinemedia/matterhorn	t/MH-11189-start-task-button	r/2.1.x	"Lars Kiesow (106)"
+M	#712	2015/11/12	"Lukas Rohner"	"MH-11137 Fixed commen reason selectbox bug"	entwinemedia/matterhorn	t/MH-11137-comment-chosen	r/2.1.x	"Lars Kiesow (106)"
+M	#711	2015/11/12	"Basil Brunner"	"MH-11185 [Bugfix] Hide assets file size if it is set to …"	entwinemedia/matterhorn	t/MH-11185-file-size-zero-disp…	r/2.1.x	"Greg Logan (109)"
+M	#710	2015/11/12	"Lukas Rohner"	"MH-11186 Removed superfluous row 'Flavor'"	entwinemedia/matterhorn	t/MH-11186-superfluous-flavor	r/2.1.x	"Michael Stypa (114)"
+M	#709	2015/11/12	"Lukas Rohner"	"MH-11182 Fixed full text search with special characters"	entwinemedia/matterhorn	t/MH-11182-search-special-char…	r/2.1.x	"Greg Logan (109)"
+M	#708	2015/11/12	"Basil Brunner"	"MH-11187 [Bugfix] Make sure the total number of themes is …"	entwinemedia/matterhorn	t/MH-11187-fix-themes-count	r/2.1.x	"Greg Logan (109)"
+M	#707	2015/11/12	"Lukas Rohner"	"MH-11159 Fixed alphabetic user sorting"	entwinemedia/matterhorn	t/MH-11159-user-sorting	r/2.1.x	"Michael Stypa (114)"
+M	#706	2015/11/12	"Basil Brunner"	"MH-11166 [Bugfix] Fix parsing of servers JSON data to make …"	entwinemedia/matterhorn	t/MH-11166-fix-paging-in-serve…	r/2.1.x	"Greg Logan (109)"
+M	#705	2015/11/12	"Basil Brunner"	"Add several missing translation keys"	entwinemedia/matterhorn	bugfix/missing-translation-key…	r/2.1.x	"Michael Stypa (114)"
+M	#704	2015/11/11	"Tobias M Schiebeck"	"MH-11162 update welcome pages for cas and shibboleth"	opencast-community/matterhorn	f/MH-11162-welcome-page	r/2.1.x	"Lars Kiesow (115)"
+M	#703	2015/11/11	"Tobias M Schiebeck"	"MH-11198 i18n support for event dashboard"	opencast-community/matterhorn	f/MH-11198-dashboard-i18n	r/2.1.x	"Michael Stypa (114)"
+M	#702	2015/11/10	"Edmore Moyo"	"MH-11176 : Cannot playback a recording via LTI in 2.x"	etmoyo/matterhorn	t/MH-11176-cannot-play-media-v…	r/2.1.x	"Lukas Rohner (113)"
+M	#701	2015/11/09	"Rüdiger Rolf"	"MH-11093 theodul layoutmanager bugs and other theodul …"	opencast-community/matterhorn	t/MH-11093-theodul-layoutmanag…	r/2.1.x	"Basil Brunner (110)"
+M	#700	2015/11/06	"Greg Logan"	"MH-11202: Removing unnecessary synchronization from video …"	greg_logan/matterhorn	t/MH-11202-synchronized-videoe…	r/2.1.x	"Rüdiger Rolf (117)"
+M	#699	2015/11/06	"Greg Logan"	"MH-11202: Removing unnecessary synchronization from video …"	greg_logan/matterhorn	t/MH-11202-synchronized-videoe…	r/2.0.x	"Rüdiger Rolf (117)"
+M	#698	2015/11/05	"Karen Dolan"	"MH-9281 Config option to protect existing MH series catalog …"	opencast-community/matterhorn	f/MH-9281-Optional-series-MH-c…	develop	"Rüdiger Rolf (3)"
+	#697	2015/11/05	"Karen Dolan"	"MH-9281 Config option to protect existing MH series catalog …"	opencast-community/matterhorn	f/MH-9281-Optional-series-MH-c…	r/1.7.x	
+	#697	2015/11/05	"Karen Dolan"	"MH-9281 Config option to protect existing MH series catalog …"	opencast-community/matterhorn	f/MH-9281-Optional-series-MH-c…	r/1.7.x	
+M	#696	2015/11/04	"Lars Kiesow"	"MH-11201, Remove Duplicated Maven Assembly Plug-in"	lkiesow/matterhorn	t/MH-11201-maven-assembly-plug…	r/2.1.x	"Tobias M Schiebeck (117)"
+M	#695	2015/11/04	"Basil Brunner"	"Crowdin integration"	entwinemedia/matterhorn	t/MH-11197-crowdin-integration…	r/2.0.x	"Lars Kiesow (122)"
+M	#694	2015/11/04	"Basil Brunner"	"Crowdin integration"	entwinemedia/matterhorn	t/MH-11197-crowdin-integration…	r/2.1.x	"Lars Kiesow (122)"
+	#693	2015/11/03	"Karen Dolan"	"MH-11195 An optional param to retrieve series that match …"	opencast-community/matterhorn	f/MH-11195-Optional-fuzzy-seri…	r/1.7.x	"Rüdiger Rolf (121)"
+	#693	2015/11/03	"Karen Dolan"	"MH-11195 An optional param to retrieve series that match …"	opencast-community/matterhorn	f/MH-11195-Optional-fuzzy-seri…	r/1.7.x	"Rüdiger Rolf (121)"
+M	#692	2015/11/03	"Lars Kiesow"	"MH-11196, Fix REST Docs UI"	lkiesow/matterhorn	t/MH-11196-rest-docs	r/2.1.x	"Tobias M Schiebeck (117)"
+M	#691	2015/11/03	"Lars Kiesow"	"MH-11031, Fix File Ingest Through Inbox"	lkiesow/matterhorn	t/MH-11031-inbox	r/2.1.x	"Lukas Rohner (113)"
+M	#690	2015/11/01	"Lars Kiesow"	"MH-11178, Prevent FFmpeg AAC Encoder Bug"	lkiesow/matterhorn	t/MH-11178-aac-coder-fast-16	r/1.6.x	"Lukas Rohner (113)"
+M	#689	2015/11/01	"Lars Kiesow"	"MH-11178, Prevent FFmpeg AAC Encoder Bug"	lkiesow/matterhorn	t/MH-11178-aac-coder-fast	r/2.1.x	"Lukas Rohner (113)"
+M	#688	2015/11/01	"Lars Kiesow"	"MH-11177, Fix Player OSGI Dependencies"	lkiesow/matterhorn	t/MH-11177-player-osgi-depende…	r/2.1.x	"Greg Logan (123)"
+M	#687	2015/10/29	"Tobias M Schiebeck"	"MH-11132/MH-11131 i18n delete dialogue / confirm dialogue"	opencast-community/matterhorn	MH-11132-i18n-delete-dialogue	r/2.1.x	"Michael Stypa (128)"
+M	#686	2015/10/29	"Michael Stypa"	"MH-11106 remove bogus event listener"	doofy/matterhorn	t/MH-11106-fix-group-editing-d…	r/2.1.x	"Lukas Rohner (113)"
+M	#685	2015/10/29	"Lukas Rohner"	"MH-10986 [Fix] Solve issues with Scheduling around DST …"	entwinemedia/matterhorn	t/MH-10986-Scheduling-DST-Fail…	r/2.1.x	"Greg Logan (123)"
+D	#684	2015/10/28	"Lukas Rohner"	"MH-10986 [Fix] Solve issues with Scheduling around DST …"	entwinemedia/matterhorn	t/MH-10986-Scheduling-DST-Fail…	r/2.1.x	
+M	#683	2015/10/28	"Rüdiger Rolf"	"MH-11144 updated documentation to refer to property …"	opencast-community/matterhorn	t/MH-11144-mediamodule-logo-do…	r/2.1.x	"Basil Brunner (113)"
+M	#682	2015/10/26	"Lars Kiesow"	"MH-11135, Add Release Manager Docs"	lkiesow/matterhorn	t/MH-11135-release-manager-doc…	r/2.1.x	"Greg Logan (81)"
+M	#681	2015/10/26	"Rüdiger Rolf"	"T/mh 11110 ffmpeg editor bugfixes 2.0"	opencast-community/matterhorn	t/MH-11110-ffmpeg-editor-bugfi…	r/2.0.x	"Greg Logan (130)"
+M	#680	2015/10/26	"Rüdiger Rolf"	"MH-11110 ffmpeg editor bugfixes 2.1"	opencast-community/matterhorn	t/MH-11110-ffmpeg-editor-bugfi…	r/2.1.x	"Greg Logan (130)"
+M	#679	2015/10/26	"Lars Kiesow"	"MH-11125, Transition from Matterhorn to Opencast"	lkiesow/matterhorn	t/MH-11125-matterhorn-to-openc…	r/2.1.x	"Tobias M Schiebeck (131)"
+M	#678	2015/10/23	"Lars Kiesow"	"MH-11102, WebConsole Access Control"	lkiesow/matterhorn	t/MH-11102-webconsole-access	r/2.1.x	"Basil Brunner (113)"
+M	#677	2015/10/23	"Lars Kiesow"	"MH-11120, Several Services Fail During Shutdown"	lkiesow/matterhorn	t/MH-11120-service-shutdown-er…	r/2.1.x	"Tobias M Schiebeck (131)"
+M	#676	2015/10/23	"Lars Kiesow"	"MH-11118, Adjust 3rd Party Tool Version Requirements"	lkiesow/matterhorn	t/MH-11118-requirements-2.1	r/2.1.x	"Tobias M Schiebeck (131)"
+M	#675	2015/10/23	"Lars Kiesow"	"MH-10651, Fix Workspace Cleaner maxAge Unit"	lkiesow/matterhorn	t/MH-10651-workspace-cleanup-1…	r/1.6.x	"Lukas Rohner (131)"
+M	#674	2015/10/23	"Lars Kiesow"	"MH-10651, Fix Workspace Cleaner Configuration"	lkiesow/matterhorn	t/MH-10651-workspace-cleanup	r/2.1.x	"Lukas Rohner (131)"
+M	#673	2015/10/22	"Lars Kiesow"	"MH-11114, Remove System.out.println from FileReadDeleteTest"	lkiesow/matterhorn	t/MH-11114-replace-println-wit…	r/2.1.x	"Lukas Rohner (130)"
+M	#672	2015/10/22	"Karen Dolan"	"MH-11113 add recording date to free text search"	opencast-community/matterhorn	t/MH-11113-searchIndexCreatedV…	develop	"Waldemar Smirnow (131)"
+M	#671	2015/10/22	"Karen Dolan"	"MH-11113 add recording date to free text search"	opencast-community/matterhorn	t/MH-11113-searchIndexCreatedV…	r/1.7.x	"Waldemar Smirnow (131)"
+M	#670	2015/10/22	"Lars Kiesow"	"MH-11111, Formatting issues in Theodul Pass Player Docs"	lkiesow/matterhorn	t/MH-11111-player-docs-formatt…	r/2.1.x	"Greg Logan (123)"
+M	#669	2015/10/20	"Michael Stypa"	"MH-11096 Errors when loading admin-ng login page"	doofy/matterhorn	MH-11096-errors-when-loading-a…	r/2.1.x	"Lukas Rohner (129)"
+M	#668	2015/10/16	"Lars Kiesow"	"MH-11095, Make assemblies more user friendly"	lkiesow/matterhorn	t/MH-11095-karaf-build	r/2.1.x	"Tobias M Schiebeck (137)"
+M	#667	2015/10/16	"Rüdiger Rolf"	"MH-11094 fixed problem that occured because of wrong merge …"	opencast-community/opencast-osnabrueck-fork	t/MH-11094-theodul-merge-error…	r/2.1.x	"Greg Logan (137)"
+M	#666	2015/10/15	"Rüdiger Rolf"	"MH-11088 fixed syntax of translation JSON files for theodul …"	opencast-community/matterhorn	f/MH-10813-theodul-view-modes	r/2.1.x	"Greg Logan (137)"
+M	#665	2015/10/14	"Lars Kiesow"	"Updated docs.opencast.org for 2.1"	lkiesow/matterhorn	docs.opencast.org	r/2.1.x	"Greg Logan (137)"
+M	#664	2015/10/13	"Michael Stypa"	"MH-11046 Fix table filter profile loading and test"	doofy/matterhorn	t/MH-11046-tablefilter-loadpro…	r/2.1.x	"Basil Brunner (113)"
+M	#663	2015/10/12	"Lars Kiesow"	"MH-11086, Shorten Log Messages"	lkiesow/matterhorn	t/MH-11086-long-logs	r/2.1.x	"Greg Logan (138)"
+M	#662	2015/10/12	"Lars Kiesow"	"MH-11085, Ensure bundle cache is cleared"	lkiesow/matterhorn	t/MH-11085-bundle-cache	r/2.1.x	"Edmore Moyo (144)"
+M	#661	2015/10/12	"Lars Kiesow"	"MH-11058, Update Karaf to 3.0.5"	lkiesow/matterhorn	t/karaf-update-3.0.5	r/2.1.x	"Tobias M Schiebeck (137)"
+M	#660	2015/10/08	kkeppens	"increase solr read and connect timeout to 5 seconds to …"	kkeppens/matterhorn	fix/solrtimeouts	r/1.6.x	"Greg Logan (149)"
+M	#659	2015/10/07	"Lars Kiesow"	"Code Clean-Up"	lkiesow/matterhorn	t/MH-11083-code-cleanup	r/2.1.x	"Greg Logan (138)"
+M	#658	2015/10/07	"Karen Dolan"	"MH-10958 only cancel jobs running on the host that is being …"	opencast-community/matterhorn	t/MH-10958-restarted-node-fail…	r/2.1.x	"Lars Kiesow (144)"
+M	#657	2015/10/05	"Tobias Wunden"	"MH-11068 [bugfix] Added the ddl scripts for the …"	twunden/matterhorn	MH-11068-bundle-info-tables	r/2.0.x	"Edmore Moyo (152)"
+D	#656	2015/10/03	"Tobias Wunden"	"MH-11068 Added table ""mh_bundleinfo"""	twunden/matterhorn	opencast/t/MH-11068-table-bund…	r/2.0.x	
+D	#655	2015/09/30	"Tobias Wunden"	"MH-11068 [bugfix] Added the SQL update script"	twunden/matterhorn	opencast/t/MH-11068-table-bund…	develop	"Edmore Moyo (156)"
+M	#654	2015/09/29	"Xavier Butty"	"MH-11074 [Fix] Tests for DST are failing in certain …"	entwinemedia/matterhorn	t/MH-11074-New-Event-DST-Tests…	develop	"Greg Logan (156)"
+M	#653	2015/09/29	"Xavier Butty"	"MH-11072 - Enhance validation in the ACL editor"	entwinemedia/matterhorn	t/MH-11072-ACL-editor-validati…	r/2.1.x	"Rüdiger Rolf (157)"
+M	#652	2015/09/29	"Xavier Butty"	"MH-11071 [Fix] Add reload function for tabs related to …"	entwinemedia/matterhorn	t/MH-11071-Reload-resources	develop	"Rüdiger Rolf (157)"
+M	#651	2015/09/29	"Xavier Butty"	"MH-11070 [Fix] Block dropdown when model is processed."	entwinemedia/matterhorn	t/MH-11070-Dropdown-conflicts	develop	"Rüdiger Rolf (157)"
+M	#650	2015/09/29	"Xavier Butty"	"MH-11069 [Fix] Remove duplicated notifications container."	entwinemedia/matterhorn	t/MH-11069-New-series-notifica…	r/2.1.x	"Greg Logan (158)"
+M	#649	2015/09/28	"Karen Dolan"	"MH-11067 fix mysql 1.6 and 2.0.1 upgrade script"	opencast-community/matterhorn	t/MH-11067-mysql-ddl-upgrade-2…	r/2.0.x	"Edmore Moyo (155)"
+M	#648	2015/09/23	"Lars Kiesow"	"MHDOC, Fix User and Group Id"	lkiesow/matterhorn	uid-gid-docs	r/2.0.x	
+M	#647	2015/09/23	"Michael Stypa"	"MH-11055 A Dashboard for OpenCast Admin-UI-ng"	doofy/matterhorn	f/MH-11055-a-dashboard-for-ope…	develop	"Edmore Moyo (159)"
+D	#646	2015/09/23	"Michael Stypa"	"MH-11059 ActiveMQ settings filename fix (develop)"	doofy/matterhorn	t/MH-11059-activemq-settings-f…	develop	"Greg Logan (158)"
+M	#645	2015/09/23	"Michael Stypa"	"MH-11060 ActiveMQ settings filename fix (r/2.0.x)"	doofy/matterhorn	t/MH-11060-activemq-settings-f…	r/2.0.x	
+M	#644	2015/09/18	"Rüdiger Rolf"	"MH-11053 videoeditor and silencedetection with ffmpeg"	opencast-community/opencast-osnabrueck-fork	o/mh16-videoeditor-silencedete…	r/1.6.x	"Greg Logan (163)"
+M	#643	2015/09/17	"Simon Hötten"	"OS X installation guide"	shoetten/matterhorn-fork	osx-guide	r/2.0.x	
+M	#642	2015/09/16	"Lars Kiesow"	"MH-11051, Fix WOH Documentation"	lkiesow/matterhorn	t/MH-11051-woh-docs	r/2.0.x	"Greg Logan (158)"
+M	#641	2015/09/14	"Tobias Wunden"	"Improved documentation around the zip workflow operation …"	opencast-community/matterhorn	twunden/zipwohmd-edited-online…	develop	"Lars Kiesow (172)"
+M	#640	2015/09/10	"Michael Stypa"	"MH-11048 Remove unused html2canvas import"	doofy/matterhorn	t/MH-11048-html2canvas-missing…	r/2.0.x	"Greg Logan (170)"
+M	#639	2015/09/07	"Lars Kiesow"	"MH-11045, Cover Image WOH Fails Due to Hardcoded Paths"	lkiesow/matterhorn	t/MH-11045-cover-image-woh-con…	develop	"Edmore Moyo (171)"
+M	#638	2015/09/04	"Michael Stypa"	"MH-11041 new nexus infrastructure (1.6.x)"	doofy/matterhorn	t/MH-11041-New-Nexus-Infrastru…	r/1.6.x	"Greg Logan (172)"
+M	#637	2015/09/04	"Michael Stypa"	"MH-11041 new nexus infrastructure (2.0.x)"	doofy/matterhorn	t/MH-11041-New-Nexus-Infrastru…	r/2.0.x	"Greg Logan (172)"
+D	#636	2015/09/03	"Ruben Perez Vazquez"	"t/MH-11040 retraction with stream security"	uni-koeln/matterhorn-uni-k-ln	t/MH-11040-retraction-with-str…	r/1.6.x	
+D	#635	2015/09/03	"Ruben Perez Vazquez"	"t/MH-11040: Retract with stream security (2.x)"	uni-koeln/matterhorn-uni-k-ln	t/MH-11040-retract-with-stream…	r/2.0.x	
+M	#634	2015/09/01	"Lars Kiesow"	"MHDOC, Fix ActiveMQ Configuration File Names"	lkiesow/matterhorn	docs-activemq-filename	r/2.0.x	"Edmore Moyo (186)"
+M	#633	2015/08/26	"Lars Kiesow"	"MH-11038, Make ListProviderScanner Less verbose"	lkiesow/matterhorn	t/MH-11038-listprovider-verbos…	r/2.0.x	
+M	#632	2015/08/25	"Lars Kiesow"	"MH-11036, Adapt Fast Testing Workflow for Admin NG"	lkiesow/matterhorn	f/MH-11036-fast-testing-for-ad…	develop	
+M	#631	2015/08/25	"Lars Kiesow"	"Added Development Process Docs"	lkiesow/matterhorn	development-process-docs	r/2.0.x	"Ruben Perez Vazquez (193)"
+D	#630	2015/08/24	"Karen Dolan"	"MH-10958 activating nodes cancel other node's ingest jobs"	opencast-community/matterhorn	t/MH-10958-restarted-node-fail…	develop	
+M	#629	2015/08/21	"Greg Logan"	"MH-11012 Adding FFmpeg subtitle embedding support"	greg_logan/matterhorn	t/MH-11012-ffmpeg-subtitles	r/2.0.x	"Lars Kiesow (157)"
+	#628	2015/08/15	"Adam McKenzie"	"MH-10729 - Adding Stream Security to add URL signing for …"	entwinemedia/matterhorn	f/MH-10729-stream-security-1.6…	r/1.7.x	
+	#628	2015/08/15	"Adam McKenzie"	"MH-10729 - Adding Stream Security to add URL signing for …"	entwinemedia/matterhorn	f/MH-10729-stream-security-1.6…	r/1.7.x	
+	#627	2015/08/13	"Lukas Rohner"	"MH-11014 Added several bugfixes and improvements for the …"	entwinemedia/matterhorn	f/MH-11014-adminui-improvement…	develop	"Lars Kiesow (200)"
+M	#626	2015/08/13	"Lars Kiesow"	"MH-11026, Fix Invalid Links in User Guides"	lkiesow/matterhorn	t/MH-11026-invalid-links	r/2.0.x	"Greg Logan (204)"
+M	#625	2015/08/13	"Lars Kiesow"	"MH-11026, Fix Invalid Links in User Guides"	lkiesow/matterhorn	t/MH-11026-invalid-links	develop	"Greg Logan (200)"
+M	#624	2015/08/06	"Lukas Rohner"	"MH-11010 Include tenant URL to distribution artifacts to be …"	entwinemedia/matterhorn	f/MH-11010-distribution-tenant…	develop	"Greg Logan (31)"
+M	#623	2015/08/05	"Lukas Rohner"	"MH-11009 Fixed creating the series solr input document"	entwinemedia/matterhorn	t/MH-11009-series-solr-2.1	r/2.1.x	"James Perrin (199)"
+M	#622	2015/08/05	"Lukas Rohner"	"MH-11009 Fixed creating the series solr input document"	entwinemedia/matterhorn	t/MH-11009-series-solr-2.0	r/2.0.x	"James Perrin (199)"
+M	#621	2015/08/05	"Lukas Rohner"	"MH-11008 Fixed series metadata handling by adding series …"	entwinemedia/matterhorn	t/MH-11008-missing-metadata-2.…	r/2.1.x	"James Perrin (199)"
+M	#620	2015/08/05	"Lukas Rohner"	"MH-11008 Fixed series metadata handling by adding series …"	entwinemedia/matterhorn	t/MH-11008-missing-metadata-2.…	r/2.0.x	"James Perrin (199)"
+M	#619	2015/08/04	"Ruben Perez Vazquez"	"MH-10992 Fix duplicate ""DEFAULT CHARSET=utf8"" in mysql …"	uni-koeln/matterhorn-uni-k-ln	t/MH-10992-mysql-charset	r/1.6.x	
+M	#618	2015/08/03	"Rüdiger Rolf"	"MH-10813 theodul view modes"	opencast-community/matterhorn	f/MH-10813-theodul-view-modes	develop	"Greg Logan (170)"
+M	#617	2015/07/30	"Greg Logan"	"MH-11007: Remove 3rd party tool script, and include …"	greg_logan/matterhorn	t/MH-11007-remove-3rd-party-to…	r/2.0.x	"Lars Kiesow (157)"
+M	#616	2015/07/28	"Michael Stypa"	"MH-10637 hello world service"	doofy/matterhorn	t/MH-10637-hello-world-service	develop	"Greg Logan (204)"
+M	#615	2015/07/28	"James Perrin"	"MH-10995, Added, config option to stop workflow stats …"	jperrin/matterhorn	t/MH-workflow-stats-2.0.1	r/2.0.x	"Rüdiger Rolf (214)"
+M	#614	2015/07/28	"James Perrin"	"MH-10995, Added, config option to stop workflow stats …"	jperrin/matterhorn	t/MH-10995-workflow-stats	r/1.6.x	"Rüdiger Rolf (214)"
+M	#613	2015/07/28	"Miguel Escriva"	"MH-10998 matterhorn-videosegmenter-ffmpeg was not getting …"	miesgre/matterhorn	t/MH-10998-ffmpeg-videosegment…	r/2.0.x	"Rüdiger Rolf (207)"
+M	#612	2015/07/27	"Adam McKenzie"	"MH-10898 - Update Apache HttpComponents (3.1.7 → 4.4.1)"	entwinemedia/matterhorn	t/MH-10898-Update-HttpComponen…	develop	"Lars Kiesow (140)"
+M	#611	2015/07/23	"Lukas Rohner"	"MH-10994 Improved the user directory in several ways for …"	entwinemedia/matterhorn	f/MH-10994-userdirectory-impro…	develop	"Tobias M Schiebeck (159)"
+M	#610	2015/07/23	"Lukas Rohner"	"MH-10993 Implemented user and role switching"	entwinemedia/matterhorn	f/MH-10993-user-switching	develop	"Greg Logan (178)"
+M	#609	2015/07/22	"Karen Dolan"	"MH-10991 Pre-filter out past calendar events"	opencast-community/matterhorn	t/MH-10991-CalendarToPreFilter…	develop	"Lars Kiesow (192)"
+M	#608	2015/07/22	"Ruben Perez Vazquez"	"MH-10992 : Added explicit charset declaration to ""create …"	uni-koeln/matterhorn-uni-k-ln	t/MH-10992-mysql-charset	r/1.6.x	"Rüdiger Rolf (225)"
+M	#607	2015/07/16	"Lukas Rohner"	"MH-10989 Use new response builder method streamResponse …"	entwinemedia/matterhorn	t/MH-10989-working-file-repo	develop	
+M	#606	2015/07/16	"Xavier Butty"	"MH-10986 [Fix] Solve issues with Scheduling around DST …"	entwinemedia/matterhorn	t/MH-10986-Scheduling-DST-Fail…	r/2.1.x	"Greg Logan (178)"
+M	#605	2015/07/16	"Lukas Rohner"	"MH-10988 Rewritten workspace"	entwinemedia/matterhorn	f/MH-10988-workspace	develop	"Greg Logan (204)"
+M	#604	2015/07/16	"Lukas Rohner"	"MH-10987 Modify workflow query and workflow index to accept …"	entwinemedia/matterhorn	t/MH-10987-workflow-query	develop	"Greg Logan (156)"
+M	#603	2015/07/16	"Ruben Perez Vazquez"	"Minor corrections in the 2.0 release notes"	opencast-community/matterhorn	t/minor-corrections-in-the-20-…	rd	
+M	#602	2015/07/16	"Lukas Rohner"	"MH-10985 Added a service health endpoint"	entwinemedia/matterhorn	f/MH-10985-health-endpoint	develop	"Edmore Moyo (184)"
+M	#601	2015/07/16	"Lukas Rohner"	"MH-10984 Extended ingest service by partial import method"	entwinemedia/matterhorn	f/MH-10984-extend-ingest-servi…	develop	"Rüdiger Rolf (18)"
+M	#600	2015/07/16	"Xavier Butty"	"MH-10982 - Change languages list-providers to …"	entwinemedia/matterhorn	t/MH-10982-Customisable-Langua…	develop	"Lars Kiesow (193)"
+M	#599	2015/07/16	"Xavier Butty"	"MH-10981 - Add the missing workflow configuration in the …"	entwinemedia/matterhorn	t/MH-10981-Event-Workflow-conf…	develop	"Lars Kiesow (193)"
+M	#598	2015/07/16	"Xavier Butty"	"MH-10980 - Fix pagination issue when applying filter on …"	entwinemedia/matterhorn	t/MH-10980-Table-filter-pagina…	develop	"Lars Kiesow (197)"
+M	#597	2015/07/16	"Xavier Butty"	"MH-10918 - Event details - Add tab for attachments, …"	entwinemedia/matterhorn	t/MH-10918-Events-Assets-tab	develop	"Rüdiger Rolf (157)"
+D	#596	2015/07/16	"John Crossman"	"MH-10863, YouTube v3 integration with configurable retry, …"	johncrossman/fork-opencast-matterhorn	t/MH-10863-YouTube-upgrade	r/2.0.x	"Greg Logan (137)"
+M	#595	2015/07/15	"Basil Brunner"	"MH-10852 [Improvement] Upgrade EclipseLink JPA (2.0 → 2.6) …"	entwinemedia/matterhorn	t/MH-10852-jpa-update	develop	"Ruben Perez Vazquez (186)"
+M	#594	2015/07/15	"Lukas Rohner"	"MH-10335 [Improvement] Improve composer and ffmpeg …"	entwinemedia/matterhorn	f/MH-10335-composer-inspection…	develop	"Lars Kiesow (163)"
+M	#593	2015/07/14	"Greg Logan"	"[Feature] MH-10979: Add load value to Jobs"	greg_logan/matterhorn	f/MH-10979-job-load	develop	"Basil Brunner (179)"
+M	#592	2015/07/11	"Adam McKenzie"	"MH-10729 - Adding Stream Security to add URL signing for …"	entwinemedia/matterhorn	f/MH-10729-stream-security-one…	develop	"Rute Santos (211)"
+M	#591	2015/07/10	"Lukas Rohner"	"MH-10974 Fixed foreign key constrains with no unique …"	entwinemedia/matterhorn	t/MH-10974-mysql-foreign-keys	r/2.0.x	"Rüdiger Rolf (178)"
+M	#590	2015/07/09	"Ruben Perez Vazquez"	"MH-10976 : Add missing <versionRange> parameter in pom.xml"	uni-koeln/matterhorn-uni-k-ln	MH-10976-eclipse-nullpointerex…	r/2.0.x	"Greg Logan (235)"
+M	#589	2015/07/09	"Lars Kiesow"	"MH-10962, Synchronize.js Licese Header"	lkiesow/matterhorn	t/MH-10962-sync-js-license	r/2.0.x	"Lukas Rohner (227)"
+M	#588	2015/07/08	"Rüdiger Rolf"	"player now loads translations async"	opencast-community/matterhorn	t/MH-10975-load-translations-a…	r/2.0.x	"Greg Logan (204)"
+M	#587	2015/07/08	"Lars Kiesow"	"MH-10955, Fixes for Recent Mkdocs Version"	lkiesow/matterhorn	t/MH-10955-fix-for-recent-mkdo…	r/2.0.x	"Ruben Perez Vazquez (241)"
+M	#586	2015/07/07	"Lukas Rohner"	"MH-10973 Fixed inconsistency of mysql ddl and update scripts"	opencast-community/matterhorn	t/MH-10973-inconsistent-mysql	r/2.0.x	"Rüdiger Rolf (240)"
+D	#585	2015/07/07	"Alexander Bias"	"The filenames on the activemq documentation page did not …"	abias/matterhorn	abias/the-filenames-on-the-act…	develop	"Lars Kiesow (186)"
+M	#584	2015/07/06	"Christoph Drießen"	"MH-10969 remove ability to create ACLs with denial rules"	entwinemedia/matterhorn	t/MH-10969-acl-denial-rule	r/1.6.x	"Greg Logan (228)"
+M	#583	2015/07/06	"Lars Kiesow"	"MH-10968, Add Note About Libav/FFmpeg on Ubuntu"	lkiesow/matterhorn	t/MH-10968-ubuntu-docs-libav-v…	r/2.0.x	"Ruben Perez Vazquez (242)"
+M	#582	2015/07/06	"James Perrin"	"MH-10926 MH-10937 action modals respect subselections"	jperrin/matterhorn	t/MH-10926-MH-10937-respect-su…	r/2.0.x	"Xavier Butty (242)"
+D	#581	2015/07/06	"Christoph Drießen"	"MH-10966 handle HTTP 403 forbidden responses in getSeries …"	entwinemedia/matterhorn	t/MH-10966-handle-403-forbidde…	r/2.0.x	
+D	#580	2015/07/06	"Christoph Drießen"	"MH-10966 handle HTTP 403 forbidden responses in getSeries …"	entwinemedia/matterhorn	t/MH-10966-handle-403-forbidde…	r/1.6.x	
+M	#579	2015/07/03	"Tobias Wunden"	"MH-10587 [bugfix] Fixed detection of Opencast home …"	twunden/matterhorn	opencast/t/MH-10964-start-scri…	r/2.0.x	"Greg Logan (220)"
+M	#578	2015/07/01	"Basil Brunner"	"MH-10908 Switch from Apache Felix to Apache Karaf"	entwinemedia/matterhorn	t/MH-10908-karaf	develop	"Lars Kiesow (198)"
+M	#577	2015/06/30	"Ruben Perez Vazquez"	"MH-10952 : Rename bundle matterhorn-execute-operations to …"	uni-koeln/matterhorn-uni-k-ln	t/MH-10952-fix-execute-naming	r/2.0.x	"Greg Logan (220)"
+M	#576	2015/06/26	"Xavier Butty"	"Use SASS instead of LESS as CSS extendsion language"	entwinemedia/matterhorn	t/MH-10935-SASS-port	develop	"Tobias M Schiebeck (193)"
+M	#575	2015/06/26	"Lars Kiesow"	"MH-10957, Add License Guide for Developers"	lkiesow/matterhorn	t/MH-10957-license-guide	r/2.0.x	"Ruben Perez Vazquez (250)"
+M	#574	2015/06/26	"Lars Kiesow"	"MH-10872, Add Maven Dependencies to NOTICES"	lkiesow/matterhorn	t/MH-10872-mvn-deplicenses	r/2.0.x	"Ruben Perez Vazquez (253)"
+M	#573	2015/06/25	"Rüdiger Rolf"	"MH-10938 reactivated viewer statistics"	opencast-community/matterhorn	t/MH-10938-views-counter	r/2.0.x	"Greg Logan (250)"
+M	#572	2015/06/25	"Rüdiger Rolf"	"MH-10924 Documentation changes"	opencast-community/matterhorn	t/MH-10924-update-docs-for-log…	r/2.0.x	"Tobias Wunden (249)"
+M	#571	2015/06/24	"Lars Kiesow"	"MH-10950, Fix DDL Readme"	lkiesow/matterhorn	t/MH-10950-ddl-readme	r/2.0.x	"Tobias Wunden (249)"
+M	#570	2015/06/24	"Lars Kiesow"	"MH-10901, Fix Execute Service Pom Versions"	lkiesow/matterhorn	t/MH-10901-fix-execute-service…	r/2.0.x	"Ruben Perez Vazquez (254)"
+M	#569	2015/06/24	"Basil Brunner"	"MH-10924 Add new Opencast logo to Admin UI header"	myniva/matterhorn	pr/MH-10924-new-logo-admin-ui-…	r/2.0.x	"Rüdiger Rolf (255)"
+M	#568	2015/06/23	"Lars Kiesow"	"MH-10946, Fix Installation Documentation"	lkiesow/matterhorn	t/MH-10946-install-docs	r/2.0.x	"Ruben Perez Vazquez (254)"
+M	#567	2015/06/23	"Adam McKenzie"	"MH-10940 [Bugfix] Fixing build profiles for standalone …"	opencast-community/matterhorn	t/MH-10940-Fix-Engage-Standalo…	r/2.0.x	"Lars Kiesow (256)"
+M	#566	2015/06/23	"James Perrin"	"MH-10939, displays raw config values in task summary"	jperrin/matterhorn	t/MH-10939-task-config-values	r/2.0.x	
+M	#565	2015/06/23	"James Perrin"	"MH-10934, Add selectable empty option if value not required"	jperrin/matterhorn	t/MH-10934-unset-event-metadat…	r/2.0.x	"Rüdiger Rolf (255)"
+M	#564	2015/06/22	"Greg Logan"	"MATT-10941: Reverting part of MH-10419. StatsImpl and the …"	greg_logan/matterhorn	t/MH-10941-revert-stats-endpoi…	r/2.0.x	"Rüdiger Rolf (256)"
+M	#563	2015/06/22	"James Perrin"	"MH-10929, Clarify that options add comments to event,"	jperrin/matterhorn	t/MH-10929-clarify-comment-opt…	r/2.0.x	"Rüdiger Rolf (255)"
+M	#562	2015/06/18	"Lukas Rohner"	"MH-10588 Make constrains consistent"	opencast-community/matterhorn	t/MH-10588-mysql	r/2.0.x	"Karen Dolan (193)"
+M	#561	2015/06/18	"Karen Dolan"	"MATT-10893 OSGi upgrade Apache commons-codec from 1.6 to …"	opencast-community/matterhorn	t/MH-10893-OSGiupgrade-commons…	develop	"Adam McKenzie (261)"
+M	#560	2015/06/15	"Lukas Rohner"	"MH-10904 Improve admin UI editor to not rely on work …"	entwinemedia/matterhorn	t/MH-10904-video-editor-openca…	r/2.0.x	"James Perrin (264)"
+M	#559	2015/06/12	"Adam McKenzie"	"MH-10895 - Update Apache Commons Compress (1.5 → 1.9)"	opencast-community/matterhorn	t/MH-10895-Upgrade-Apache-Comm…	develop	"Greg Logan (256)"
+M	#558	2015/06/12	"Lars Kiesow"	"MH-10930, Fix missing German translation"	lkiesow/matterhorn	t/MH-10930-de-translation	r/2.0.x	"Ruben Perez Vazquez (267)"
+M	#557	2015/06/12	"Lars Kiesow"	"MH-10928, Adjust loglevel in DictionaryService"	lkiesow/matterhorn	t/MH-10928-dictionaryservice-d…	r/2.0.x	"Greg Logan (267)"
+M	#556	2015/06/12	"Lars Kiesow"	"MH-10872, Relicense httpInterceptor"	lkiesow/matterhorn	t/MH-10872-relicense-httpInter…	r/2.0.x	"Basil Brunner (264)"
+M	#555	2015/06/12	"Rüdiger Rolf"	"MH-10924 new opencast logo update"	opencast-community/matterhorn	t/MH-10924-new-logos	r/2.0.x	"Basil Brunner (264)"
+M	#554	2015/06/11	"Henning S."	"MH-10701 Remove useless space"	hstruebe/ocmh	MH-10701-scrolling-required	r/2.0.x	"James Perrin (268)"
+M	#553	2015/06/10	"Lars Kiesow"	"MH-10921, Make job states easier distinguishable"	lkiesow/matterhorn	t/MH-10921-job-state-names	r/2.0.x	"Karen Dolan (269)"
+M	#552	2015/06/10	"Lars Kiesow"	"MH-10730, Deactivate Jasmine Tests in Theodule Core"	lkiesow/matterhorn	t/MH-10730-deactivate-jasmine-…	r/2.0.x	"Lukas Rohner (269)"
+M	#551	2015/06/10	"Xavier Butty"	"MH-10913 [Fix] Change ListProvider for the licenses and …"	entwinemedia/matterhorn	t/MH-10913-License-Field	r/2.0.x	"Lars Kiesow (269)"
+M	#550	2015/06/09	"James Perrin"	"MH-10855, Fixed, angular-chosen requires an empty option if …"	jperrin/matterhorn	t/MH-10855-task-menu	r/2.0.x	"Xavier Butty (270)"
+M	#549	2015/06/09	"Lars Kiesow"	"MH-10905, Videoeditor Service (FFMPEG) process jobs with …"	opencast-community/opencast-osnabrueck-fork	t/MH-10905-ffmpeg-videoeditor-…	r/2.0.x	"Greg Logan (270)"
+M	#548	2015/06/09	"Xavier Butty"	"MH-10640 [Fix] Solve issue with add event response."	entwinemedia/matterhorn	t/MH-10640-Problems-create-eve…	r/2.0.x	"Rüdiger Rolf (270)"
+M	#547	2015/06/09	"James Perrin"	"MH-10689, Alert if user tries to reload or leave page while …"	opencast-community/matterhorn	t/MH-10689-upload-leave-page-w…	r/2.0.x	"Rüdiger Rolf (270)"
+D	#546	2015/06/08	"Waldemar Smirnow"	"MH-10905: Videoeditor Service (FFMPEG) process jobs with …"	wsmirnow/matterhorn	t/MH-10905-ffmpeg-videoeditor-…	r/2.0.x	"Greg Logan (271)"
+M	#545	2015/06/08	"Greg Logan"	"MH-10921: Fixing missing debug settings."	greg_logan/matterhorn	t/MH-10912-debug-settings	r/2.0.x	"Lars Kiesow (271)"
+M	#544	2015/06/08	"Lars Kiesow"	"MH-10882, Update to UI-Sortable with License Header"	lkiesow/matterhorn	t/MH-10882-lib-with-license-he…	r/2.0.x	"James Perrin (270)"
+D	#543	2015/06/08	"Rüdiger Rolf"	"MH-10904 fix workflow definition for editor"	opencast-community/matterhorn	t/MH-10904-workflow-definition…	r/2.0.x	"Lukas Rohner (270)"
+M	#542	2015/06/08	"Lars Kiesow"	"MH-10911, Remove executable flag from non-executables"	lkiesow/matterhorn	t/MH-10911-remove-executable-f…	r/2.0.x	"Greg Logan (271)"
+M	#541	2015/06/08	"Rüdiger Rolf"	"MH-10836 fixed tehodul archetype pom settings"	opencast-community/matterhorn	t/MH-10836-theodul-archetype	r/2.0.x	"James Perrin (270)"
+M	#540	2015/06/08	"Basil Brunner"	"Remove unused test class which is a leftover from a …"	myniva/matterhorn	pr/remove-unnecessary-class	r/2.0.x	"Rüdiger Rolf (271)"
+M	#539	2015/06/05	"Adam McKenzie"	"MH-10890 - Update Apache Commons Lang (2.6 → 3.4)"	opencast-community/matterhorn	t/MH-10890-Update-Apache-Commo…	develop	"Lars Kiesow (271)"
+M	#538	2015/06/05	"Michael Stypa"	"MH-10902 ./modules/matterhorn-publication-service-youtube/ …"	doofy/matterhorn	t/MH-10902-remove-obsolete-you…	r/2.0.x	"Basil Brunner (269)"
+M	#537	2015/06/05	"Basil Brunner"	"MH-10891 Make sure each bundle explicitly defines the …"	entwinemedia/matterhorn	t/MH-10891-explicit-import-pac…	develop	"Greg Logan (220)"
+M	#536	2015/06/04	"Adam McKenzie"	"MH-10793 Change the bulk delete events and series messages …"	opencast-community/matterhorn	t/MH-10793-Communuty-Different…	r/2.0.x	"Ruben Perez Vazquez (271)"
+M	#535	2015/06/04	"Rüdiger Rolf"	"MH-10868 fixed several possible problems that could cause a …"	opencast-community/matterhorn	t/MH-10868-segment-line-break	r/2.0.x	"Lukas Rohner (271)"
+D	#534	2015/06/04	"Pascal Aubort"	"MH-10906 Redesign REST doc to have same look and feel as MH …"	entwinemedia/matterhorn	t/MH-10906-rest-docs-ng	r/2.1.x	"Lars Kiesow (270)"
+M	#533	2015/06/03	"Rüdiger Rolf"	"MH-10888 fixed problem that the player does not play audio …"	opencast-community/matterhorn	t/MH-10888-audio-only-player-i…	r/2.0.x	"Greg Logan (270)"
+M	#532	2015/06/03	"James Perrin"	"MH-10765, MH-10885 Show details of instantiated operations"	jperrin/matterhorn	t/MH-10765-get-operation-by-po…	r/2.0.x	"Lukas Rohner (274)"
+M	#531	2015/06/02	"Lars Kiesow"	"MH-10882, Remove unnecessary admin-ng libs"	lkiesow/matterhorn	t/MH-10882-remove-unnecessary-…	r/2.0.x	"Lukas Rohner (274)"
+D	#530	2015/06/02	"James Perrin"	"MH-10756, changed operation details endpoint to get by …"	jperrin/matterhorn	t/MH-10756-get_operation_by_po…	r/2.0.x	
+D	#529	2015/06/02	"Lukas Rohner"	"Test commit"	entwinemedia/matterhorn	f/test	r/2.0.x	
+M	#528	2015/05/29	"Michael Stypa"	"MH-10881: Fixes wrong doc links to 2.0.x"	doofy/matterhorn	r/2.0.x	r/2.0.x	"Lukas Rohner (274)"
+M	#527	2015/05/29	"Lars Kiesow"	"MH-10877, Remove jquery.liveSearch"	lkiesow/matterhorn	t/MH-10877-remove-jquery-lives…	r/2.0.x	"Lukas Rohner (274)"
+M	#526	2015/05/29	"Lukas Rohner"	"MH-10880 Improved aborting calls on long wait time and …"	opencast-community/matterhorn	t/MH-10880-remote-base-1.6.x	r/1.6.x	"Rüdiger Rolf (278)"
+M	#525	2015/05/29	"Lukas Rohner"	"MH-10880 Improved aborting calls on long wait time and …"	opencast-community/matterhorn	t/MH-10880-remote-base	r/2.0.x	"Rüdiger Rolf (278)"
+M	#524	2015/05/29	"Edmore Moyo"	"MH-10879 : Update LTI views"	etmoyo/matterhorn	t/MH-10879-update-lti-views-1.…	r/1.6.x	"Karen Dolan (268)"
+M	#523	2015/05/29	"Lukas Rohner"	"MH-10821 Fixed possible nullpointer on job with …"	opencast-community/matterhorn	t/MH-10821-endpoint-null-point…	r/2.0.x	"Karen Dolan (279)"
+M	#522	2015/05/28	"Lars Kiesow"	"MH-10878, Remove runtime-info-ui uitests"	lkiesow/matterhorn	t/MH-10878-remove-runtime-info…	r/2.0.x	"Greg Logan (271)"
+M	#521	2015/05/28	"Adam McKenzie"	"MH-10834 Audio only uploads fail to process"	opencast-community/matterhorn	t/MH-10834-Audio-Only-Processe…	r/2.0.x	"Lars Kiesow (279)"
+M	#520	2015/05/27	"Greg Logan"	"MH-10876: Downloaded font files (Apache2.0) and amended …"	greg_logan/matterhorn	t/MH-10876-admin-ng-remote-cal…	r/2.0.x	"Lars Kiesow (281)"
+D	#519	2015/05/27	"Edmore Moyo"	"MH-10558 : Mime type not identified for mkv files"	etmoyo/matterhorn	t/MH-10558-mime-type-not-ident…	r/2.0.x	"Waldemar Smirnow (283)"
+M	#518	2015/05/27	"Edmore Moyo"	"MH-10558 : Mime type not identified for mkv files"	etmoyo/matterhorn	t/MH-10558-mime-type-not-ident…	r/1.6.x	"Waldemar Smirnow (283)"
+M	#517	2015/05/26	"Lars Kiesow"	"10873, Fix Randomly Failing capture-admin-service-impl tests"	lkiesow/matterhorn	t/MH-10873-capture-admin-test	r/2.0.x	"Greg Logan (284)"
+M	#516	2015/05/26	"Basil Brunner"	"MH-10726 [Improvement] Prevent archive from downloading …"	myniva/matterhorn	pr/MH-10726-archive-fs-copy-2.…	r/2.0.x	"Rüdiger Rolf (278)"
+M	#515	2015/05/25	"Lars Kiesow"	"MH-10872, Transition to Apereo"	opencast-community/matterhorn	apereo-relicense	r/2.0.x	"Tobias Wunden (270)"
+D	#514	2015/05/25	"Edmore Moyo"	"MH-10871 : Add Sakai User Provider"	etmoyo/matterhorn	t/MH-10871-sakai-user-provider	r/1.6.x	
+M	#513	2015/05/24	"Lars Kiesow"	"MH-10752, Fix Failing Clover Build on Admin NG"	lkiesow/matterhorn	t/MH-10752-clover-builds	r/2.0.x	"Greg Logan (285)"
+D	#512	2015/05/24	"Lars Kiesow"	"MH-10867, Fixed JSLint Errors in Theodul VideoJS Plugin"	lkiesow/matterhorn	t/MH-10867-jslint-errors	r/2.0.x	"Xavier Butty (270)"
+M	#511	2015/05/23	"Lars Kiesow"	"MH-10866, Documentation: Incorrect Repository Links"	lkiesow/matterhorn	t/MH-10866-docs-repo-link	r/2.0.x	"Lukas Rohner (283)"
+M	#510	2015/05/22	"Lars Kiesow"	"MH-10864, Remove Trailing Spaces From Less Files"	lkiesow/matterhorn	t/MH-10864-trailing-spaces-in-…	r/2.0.x	"Ruben Perez Vazquez (283)"
+M	#509	2015/05/22	"Lars Kiesow"	"MH-10678, Low text contrast in Admin UI restricts …"	lkiesow/matterhorn	t/MH-10678-increase-text-contr…	r/2.0.x	"James Perrin (288)"
+M	#508	2015/05/22	"Rüdiger Rolf"	"MH-10843 patched selection of different video qualities in …"	opencast-community/matterhorn	t/MH-10843-video-quality-filte…	r/2.0.x	"Xavier Butty (270)"
+M	#507	2015/05/22	"Basil Brunner"	"MH-10726 [Improvement] Prevent archive from downloading …"	myniva/matterhorn	pr/MH-10726-archive-fs-copy-1.…	r/1.6.x	"Rüdiger Rolf (278)"
+M	#506	2015/05/21	"Basil Brunner"	"Add welcome page for Opencast documentation"	myniva/matterhorn	pr/docs-welcome-page	r/2.0.x	"Lars Kiesow (289)"
+M	#505	2015/05/21	"Rüdiger Rolf"	"MH-10809 login-page updates in distributed setup"	opencast-community/matterhorn	MH-10809-different-runtime-uis	r/2.0.x	"Greg Logan (289)"
+M	#504	2015/05/20	"Adam McKenzie"	"MH-10861 - Add message broker username and password …"	opencast-community/matterhorn	t/MH-10861-Active_MQ_Broker_Us…	r/2.0.x	"Greg Logan (289)"
+D	#503	2015/05/20	"John Crossman"	"MH-10863: Upgrade Google libraries. YouTube: v3-rev13x, etc."	johncrossman/fork-opencast-matterhorn	you_tube_v3	r/2.0.x	
+M	#502	2015/05/18	"John Crossman"	"MH-10857, Add to .gitignore: IntelliJ IDEA editor files …"	johncrossman/fork-opencast-matterhorn	MH-10857_gitignore	r/2.0.x	"Lars Kiesow (291)"
+D	#501	2015/05/18	"John Crossman"	"MH-10857, Add to .gitignore: IntelliJ IDEA editor files …"	johncrossman/fork-opencast-matterhorn	MH-10857_gitignore-IntelliJ-fi…	r/2.0.x	"Lars Kiesow (292)"
+M	#500	2015/05/15	"Lukas Rohner"	"MH-10853 Improved admin ui ng workflows"	opencast-community/matterhorn	t/MH-10853-workflows	r/2.0.x	"James Perrin (295)"
+M	#499	2015/05/13	"Xavier Butty"	"MH-10684 - MH-10829 - Handle session and request timeout in …"	opencast-community/matterhorn	opencast/t/MH-10684-ui-unrespo…	r/2.0.x	"Lars Kiesow (284)"
+M	#498	2015/05/13	"Basil Brunner"	"MH-10850 [Bugfix] Fix typo in interface name of …"	myniva/matterhorn	pr/rename-class-matterhorn-con…	r/2.0.x	"Lars Kiesow (292)"
+M	#497	2015/05/12	"Basil Brunner"	"[Improvement] Use shared 'theme_override' directory for …"	myniva/matterhorn	pr/user-guide-shared-theme-ove…	r/2.0.x	"Lars Kiesow (292)"
+M	#496	2015/05/12	"Lukas Rohner"	"MH-10849 Fixed the videoeditor to use the temporary …"	opencast-community/matterhorn	t/MH-10849-videoeditor-tmp-fil…	r/1.6.x	"Rüdiger Rolf (298)"
+M	#495	2015/05/12	"Lukas Rohner"	"MH-10849 Fixed the videoeditor to use the temporary …"	opencast-community/matterhorn	t/MH-10849-videoeditor-tmp-fil…	r/2.0.x	"Rüdiger Rolf (298)"
+M	#494	2015/05/12	"Xavier Butty"	"MH-10848 - Use server timezone as default when not set in …"	opencast-community/matterhorn	t/MH-10848-Event-conflict-endp…	r/2.0.x	"Ruben Perez Vazquez (298)"
+M	#493	2015/05/12	"Xavier Butty"	"MH-10847 - Change role parameter from with-role directive …"	opencast-community/matterhorn	opencast/t/MH-10847-Missing-di…	r/2.0.x	"Ruben Perez Vazquez (291)"
+M	#492	2015/05/12	"Xavier Butty"	"MH-10845 - Remove irrelevant data from summary of ""Add …"	opencast-community/matterhorn	t/MH-10845-Add-event-series-su…	r/2.0.x	"Lars Kiesow (284)"
+M	#491	2015/05/08	"Adam McKenzie"	"MH-10816 - Change ActiveMQ sender / receiver to use …"	opencast-community/matterhorn	t/MH-10816-Centralized-ActiveM…	r/2.0.x	"Lars Kiesow (299)"
+M	#490	2015/05/07	"Lars Kiesow"	"MH-10730, Move Theofule Plugin Versions to Main Pom"	lkiesow/matterhorn	t/MH-10730-plugin-version-in-m…	r/2.0.x	"James Perrin (303)"
+M	#489	2015/05/07	"Henning S."	"MH-10701 Less padding and greater video scale"	hstruebe/ocmh	MH-10701-scrolling-required	r/2.0.x	"James Perrin (299)"
+D	#488	2015/05/06	"Michael Stypa"	"MH-10797 Add YouTube publication option to admin-ng"	doofy/matterhorn	t/MH-10797-youtube-enable	r/2.0.x	"James Perrin (304)"
+M	#487	2015/05/01	"Tobias Wunden"	"MH-10235 - Added the generation of the build hash to the …"	twunden/matterhorn	t/MH-10235-build-version	r/2.0.x	"Lars Kiesow (305)"
+M	#486	2015/04/28	"Lars Kiesow"	"MH-10730, Update Jasmine, PhantomJS and RequireJS"	lkiesow/matterhorn	t/MH-10730-update-theudule-cor…	r/2.0.x	"James Perrin (305)"
+M	#485	2015/04/28	"Lukas Rohner"	"MH-10820 - More work on silencing excessive logs on …"	opencast-community/matterhorn	t/MH-10820-activemq-shutdown-e…	r/2.0.x	"Lars Kiesow (312)"
+M	#484	2015/04/27	"Henning S."	"MH-10814 Removed message and stop buffer checker for all …"	hstruebe/ocmh	MH-10814-stop-buffer-check	r/2.0.x	"Lukas Rohner (274)"
+M	#483	2015/04/27	"Xavier Butty"	"Remove useless data from new event request."	opencast-community/matterhorn	t/MH-10807-useless-data-in-req…	r/2.0.x	"Lars Kiesow (313)"
+M	#482	2015/04/25	"Adam McKenzie"	"MH-10699 - Silencing excessive logs on activemq shutdown"	opencast-community/matterhorn	t/MH-10699-Quieting_ActiveMQ_S…	r/2.0.x	"Lars Kiesow (315)"
+M	#481	2015/04/24	"Karen Dolan"	"MH-10815 Update eirslett frontend-maven-plugin to v0.0.23 …"	opencast-community/matterhorn	t/MH-10815-admin-ng-not-build-…	r/2.0.x	"Lars Kiesow (316)"
+M	#480	2015/04/23	"Lars Kiesow"	"MH-10812, Use bundles.configuration.location in admin ng …"	lkiesow/matterhorn	t/MH-10812-config-dir	r/2.0.x	"James Perrin (311)"
+M	#479	2015/04/23	"Lukas Rohner"	"MH-10738 Fixed smtp mail transport default value"	opencast-community/matterhorn	t/MH-10738-smtp-service	r/2.0.x	"Lars Kiesow (317)"
+M	#478	2015/04/22	"Rüdiger Rolf"	"MH-10810 renamed directory with upgrade script"	opencast-community/matterhorn	t/MH-10810-rename-upgrade-scri…	r/2.0.x	
+M	#477	2015/04/22	"Lars Kiesow"	"MH-10804, Add Time Zone to Scheduling UI"	lkiesow/matterhorn	t/MH-10804-schedule-event-ui-t…	r/2.0.x	"Xavier Butty (312)"
+D	#476	2015/04/22	"Rüdiger Rolf"	"MH-10809 login redirect"	opencast-community/matterhorn	t/MH-10809-login-redirect	r/2.0.x	"Ruben Perez Vazquez (305)"
+M	#475	2015/04/22	"Lars Kiesow"	"MH-10808, Disable Demo Users By Default"	lkiesow/matterhorn	t/MH-10808-disable-demo-users-…	r/2.0.x	
+M	#474	2015/04/21	"Basil Brunner"	"MH-10800 [Bugfix] Update node to version 0.12.2"	myniva/matterhorn	pr/MH-10800-fix-karma	r/2.0.x	"Lars Kiesow (319)"
+M	#473	2015/04/20	"Tobias Wunden"	"MH-10799 Handled the case where no SMIL catalog nor preview …"	twunden/matterhorn	t/MH-10799-videoeditor	r/2.0.x	"Waldemar Smirnow (319)"
+M	#472	2015/04/20	"Rüdiger Rolf"	"MH-10565 looking up right preview and work flavor from the …"	opencast-community/matterhorn	t/MH-10565-videoeditor-flavors…	r/2.0.x	"Rute Santos (304)"
+M	#471	2015/04/20	"Rüdiger Rolf"	"MH-10565 looking up right preview and work flavor from the …"	opencast-community/matterhorn	t/MH-10565-videoeditor-flavors…	r/1.6.x	"Rute Santos (302)"
+M	#470	2015/04/18	"James Perrin"	"MH-10798, changed Event Details to display mediapackage …"	jperrin/matterhorn	t/MH-10798-event-details-title	r/2.0.x	"Lars Kiesow (319)"
+M	#469	2015/04/17	"James Perrin"	"MH-10681, added title, time-in-queue, started complete"	jperrin/matterhorn	t/MH-10681-operation-start-end…	r/2.0.x	"Lars Kiesow (318)"
+D	#468	2015/04/17	"Michael Stypa"	"MH-10797 Add YouTube publication option to admin-ng"	doofy/matterhorn	youtube-api-v3_activateupload	r/2.0.x	"James Perrin (309)"
+M	#467	2015/04/17	"Michael Stypa"	"MH-10722 check if client secret file exists"	doofy/matterhorn	youtube-api-v3_checksecret	r/2.0.x	"James Perrin (309)"
+M	#466	2015/04/17	"James Perrin"	"MH-10672, increase the number of row options"	jperrin/matterhorn	t/MH-10672-more-row-options	r/2.0.x	"Xavier Butty (319)"
+M	#465	2015/04/17	"James Perrin"	"MH-10667 Fix Previous Button in Wizards"	jperrin/matterhorn	t/MH-10667-Previous-Buttons	r/2.0.x	"Xavier Butty (319)"
+M	#464	2015/04/16	"Rüdiger Rolf"	"MH-10781 filter tracks by flavor and format"	opencast-community/matterhorn	t/mh-10781_filter_tracks_in_th…	r/2.0.x	"Edmore Moyo (321)"
+M	#463	2015/04/14	"Lars Kiesow"	"MH-10792, Pom.xml Extra Modules"	lkiesow/matterhorn	t/MH-10792-pom-extra-module	r/2.0.x	"Karen Dolan (316)"
+M	#462	2015/04/14	"Lars Kiesow"	"MH-10791, Conflicting Modules in Default Profiles"	lkiesow/matterhorn	t/MH-10791-caption-module-conf…	r/2.0.x	"Lukas Rohner (324)"
+M	#461	2015/04/13	"Lars Kiesow"	"MH-10780, Specify Requirements"	lkiesow/matterhorn	t/MH-10780-requirement-specifi…	r/2.0.x	"Karen Dolan (318)"
+M	#460	2015/04/13	"Lars Kiesow"	"MH-10779, Pom.xml Formatting"	lkiesow/matterhorn	t/MH-10779-pom-xml-formatting	r/2.0.x	"Tobias Wunden (326)"
+M	#459	2015/04/10	"Rüdiger Rolf"	"MH-10776 spanish and french translations for the player"	opencast-community/matterhorn	t/MH-10776-theodul-translation…	r/2.0.x	"Xavier Butty (325)"
+M	#458	2015/04/09	"Rüdiger Rolf"	"MH-10758 several small bugfixes for Theodul"	opencast-community/matterhorn	t/MH-10758-theodul-improvement…	r/2.0.x	"Xavier Butty (325)"
+D	#457	2015/04/09	"Rüdiger Rolf"	"MH-10758 several small fixes for Theodul"	opencast-community/matterhorn	t/MH-10758-theodul-improvement…	master	
+M	#456	2015/04/07	"Xavier Butty"	"MH-10757 [BugFix] Use moment.js as base library for time …"	opencast-community/matterhorn	opencast/t/MH-10757-Time-handl…	r/2.0.x	"Greg Logan (333)"
+M	#455	2015/04/07	"Xavier Butty"	"MH-10775 [Fix] Ensure that at least one role with R/W …"	opencast-community/matterhorn	t/MH-10775-Mandatory-rw-policy	r/2.0.x	"James Perrin (309)"
+M	#454	2015/04/07	"Xavier Butty"	"MH-10774 [Fix] Lock the series access policy when events of …"	opencast-community/matterhorn	t/MH-10774-Lock-series-access-…	r/2.0.x	"Rüdiger Rolf (317)"
+M	#453	2015/04/07	"Xavier Butty"	"MH-10773 [Fix] Add support for free-text value in metadata …"	opencast-community/matterhorn	t/MH-10773-Free-text-person-va…	r/2.0.x	"Rüdiger Rolf (312)"
+M	#452	2015/04/07	"Xavier Butty"	"MH-10772 [Fix] Place the actions cell button in a …"	opencast-community/matterhorn	opencast/t/MH-10772-actions-co…	r/2.0.x	"Rüdiger Rolf (326)"
+D	#451	2015/04/07	"Xavier Butty"	"MH-10771 [BugFix] Improve support for the metadata type …"	opencast-community/matterhorn	opencast/t/MH-10771-Edit-start…	r/2.0.x	"Rüdiger Rolf (318)"
+M	#450	2015/04/07	"Xavier Butty"	"MH-10770 [Fix] Translate all the tabs captions with the …"	opencast-community/matterhorn	opencast/t/MH-10770-Translatio…	r/2.0.x	"Rüdiger Rolf (326)"
+M	#449	2015/04/07	"Xavier Butty"	"MH-10769 [Fix] Add delete button to the series and events …"	opencast-community/matterhorn	t/MH-10769-Delete-icon-events-…	r/2.0.x	"Rüdiger Rolf (326)"
+M	#448	2015/04/07	"Xavier Butty"	"MH-10768 [Fix] Add automatic refresh for the workflow …"	opencast-community/matterhorn	t/MH-10768-refresh-operations-…	r/2.0.x	"Rüdiger Rolf (327)"
+M	#447	2015/04/04	"Lars Kiesow"	"MH-10737, Remove Remains of GStreamer"	lkiesow/matterhorn	t/MH-10737-remove-remaining-gs…	r/2.0.x	"Lukas Rohner (325)"
+M	#446	2015/04/04	"Lars Kiesow"	"MH-10764, Use bundles.configuration.location for Config"	lkiesow/matterhorn	t/MH-10764-bundle-configuratio…	r/2.0.x	"Tobias Wunden (326)"
+M	#445	2015/04/04	"Lars Kiesow"	"MH-10763, Remove Outdated Configuration"	lkiesow/matterhorn	t/MH-10763-outdated-configurat…	r/2.0.x	"Greg Logan (333)"
+M	#444	2015/04/01	"Lars Kiesow"	"MH-10462, ""Try it anyway"" in player gets blocked"	opencast-community/opencast-osnabrueck-fork	t/MH-10462-try-anyway-btn	r/2.0.x	"Karen Dolan (316)"
+M	#443	2015/03/31	"Lars Kiesow"	"MH-10756, Put Theodul Modules in Correct pom.xml Profile"	lkiesow/matterhorn	t/MH-10756-theodul-pom-xml	r/2.0.x	
+M	#442	2015/03/23	"Rüdiger Rolf"	"MH-10750 Fixed username problem with MH 2.0. Solution is …"	opencast-community/matterhorn	t/MH-10750-theodul-login	r/2.0.x	"Basil Brunner (327)"
+M	#441	2015/03/20	"Basil Brunner"	"MH-10188 [Feature] Add Cover Image functionality"	myniva/matterhorn	pr/MH-10188-cover-image	develop	"James Perrin (341)"
+M	#440	2015/03/20	"Edmore Moyo"	"MH-10718 : No sort enum matches 'undefined'"	etmoyo/matterhorn	t/MH-10718-no-sort-enums-match…	r/2.0.x	"Rüdiger Rolf (348)"
+M	#439	2015/03/20	"Lukas Rohner"	"MH-10746 Added event status to the admin UI, which includes …"	opencast-community/matterhorn	t/MH-10746-recording-status	r/2.0.x	"Rüdiger Rolf (331)"
+M	#438	2015/03/20	"Rüdiger Rolf"	"MH-10669 redirect to configured player"	opencast-community/matterhorn	t/MH-10669-configureable-playe…	r/2.0.x	"Basil Brunner (331)"
+M	#437	2015/03/19	"Henning S."	"MH-10685 Scheduler Fix, added import,"	hstruebe/ocmh	t/MH-10685-scheduling-fails	r/2.0.x	"Lukas Rohner (351)"
+M	#436	2015/03/19	"Denis Meyer"	"MH-10742 Full screen fixes for one video"	CallToPower/matterhorn	t/MH-10742-fullscreen-fixes	r/2.0.x	"James Perrin (348)"
+M	#435	2015/03/18	"Basil Brunner"	"MH-10740 [Bugfix] Prevent NPE that occurs if flavor is not …"	myniva/matterhorn	pr/NPE-tools-endpoint	r/2.0.x	"Lars Kiesow (326)"
+M	#434	2015/03/17	"Christoph Drießen"	"Upgrade function library"	opencast-community/matterhorn	t/MH-10721-fn-lib-dependency	r/2.0.x	"Lars Kiesow (354)"
+M	#433	2015/03/17	"Edmore Moyo"	"MH-10718 : No sort enum matches 'undefined'"	etmoyo/matterhorn	t/MH-10718-no-sort-enums-match…	r/1.6.x	"Rüdiger Rolf (353)"
+M	#432	2015/03/16	"Denis Meyer"	"MH-10734 Improved english translation strings"	CallToPower/matterhorn	t/MH-10734-improve-translation…	r/2.0.x	"Xavier Butty (333)"
+M	#431	2015/03/13	"Denis Meyer"	"MH-10719 bugfix for non-working keys in the new player"	CallToPower/matterhorn	t/MH-10719-fix-keys	r/2.0.x	"Xavier Butty (333)"
+M	#430	2015/03/11	"Denis Meyer"	"MH-10694 Split up nested functions in the core routine"	CallToPower/matterhorn	t/MH-10694-split-nested-functi…	r/2.0.x	"Xavier Butty (333)"
+M	#429	2015/03/11	"Denis Meyer"	"MH-10692 Loading CSS files in the core HTML file, not the …"	CallToPower/matterhorn	t/MH-10692-css-file-loading	r/2.0.x	"Xavier Butty (333)"
+D	#428	2015/03/11	"Denis Meyer"	"MH-10719 bugfix for non-working keys in the new player"	CallToPower/matterhorn	t/MH-10719-fix-keys	r/2.0.x	
+D	#427	2015/03/09	"Denis Meyer"	"MH-10719 bugfix for non-working keys in the new player"	CallToPower/matterhorn	r/1.7.x	r/2.0.x	
+D	#426	2015/03/09	"Denis Meyer"	"MH-10719 bugfix for non-working keys in the new player"	CallToPower/matterhorn	r/1.7.x	develop	
+M	#425	2015/03/09	"Lukas Rohner"	"MH-10700 Fixed statistics null pointer"	opencast-community/matterhorn	t/MH-10700-statistics-npe-1.6.…	r/1.6.x	"Waldemar Smirnow (361)"
+M	#424	2015/03/09	"Lukas Rohner"	"MH-10700 Fixed statistics null pointer"	opencast-community/matterhorn	t/MH-10700-statistics-npe	r/2.0.x	"Waldemar Smirnow (361)"
+M	#423	2015/03/09	"Xavier Butty"	"MH-10687 Fix issue related to the mising notifications in …"	opencast-community/matterhorn	t/MH-10687-notifications	r/2.0.x	"Rüdiger Rolf (362)"
+M	#422	2015/03/06	"Tobias Wunden"	"MH-10710 [bugfix] Improved the configuration of the Text …"	twunden/matterhorn	t/MH-10710-videosegmenter-npe	r/2.0.x	"Lars Kiesow (340)"
+M	#421	2015/03/06	"Lukas Rohner"	"MH-10711 Implemented synchronization on workflow service …"	opencast-community/matterhorn	t/MH-10711-optimistic-lock-1.6…	r/1.6.x	"Ruben Perez Vazquez (324)"
+M	#420	2015/03/06	"Lukas Rohner"	"MH-10711 Implemented synchronization on workflow service …"	opencast-community/matterhorn	t/MH-10711-optimistic-lock	r/2.0.x	"Ruben Perez Vazquez (353)"
+M	#419	2015/03/06	"Lukas Rohner"	"MH-10713 Replaced Opencast cache with guava cache"	opencast-community/matterhorn	t/MH-10713-replace-cache	r/2.0.x	"Rüdiger Rolf (359)"
+M	#418	2015/03/06	"Lukas Rohner"	"MH-10713 Replaced Opencast cache with guava cache"	opencast-community/matterhorn	t/MH-10713-replace-cache-1.6.x	r/1.6.x	"Rüdiger Rolf (360)"
+M	#417	2015/03/06	"Lukas Rohner"	"MH-10712 Improved memory consumption when cleaning outdated …"	opencast-community/matterhorn	t/MH-10712-workspace-cleanup	r/2.0.x	"Ruben Perez Vazquez (324)"
+M	#416	2015/03/06	"Lukas Rohner"	"MH-10572 Invalidate new created shibboleth user after …"	opencast-community/matterhorn	t/MH-10572-shibboleth-1.6.x	r/1.6.x	"Karen Dolan (354)"
+M	#415	2015/03/06	"Lukas Rohner"	"MH-10572 Invalidate new created shibboleth user after …"	opencast-community/matterhorn	t/MH-10572-shibboleth	r/2.0.x	"Karen Dolan (354)"
+M	#414	2015/03/04	"Greg Logan"	"MH-10708: Removed CA integration tests for now."	opencast-community/matterhorn	t/MH-10708-remove-ca-integrati…	develop	"Tobias Wunden (367)"
+M	#413	2015/03/04	"Lukas Rohner"	"MH-10625 [Feature] Add the new administrative UI of …"	opencast-community/matterhorn	f/MH-10625-admin-ui-ng-final	develop	"Rüdiger Rolf (367)"
+M	#412	2015/02/27	"Lars Kiesow"	"MH-10683, Remove Capture Agent"	opencast-community/opencast-osnabrueck-fork	t/MH-10683-remove-capture-agen…	develop	"Tobias Wunden (368)"
+M	#411	2015/02/21	"Edmore Moyo"	"MH-10648 : Add reference to service component file for ldap …"	etmoyo/matterhorn	t/MH-10648-ldap-user-directory…	r/1.6.x	"Rüdiger Rolf (376)"
+M	#410	2015/02/19	"Basil Brunner"	"MH-10644 [Improvement] Use Java NIO to create links instead …"	myniva/matterhorn	pr/MH-10644-file-linking	develop	"Rüdiger Rolf (380)"
+M	#409	2015/02/17	"Rüdiger Rolf"	"MH-10638 videoeditor Firefox 35 compatibility issue"	opencast-community/opencast-osnabrueck-fork	t/MH-10638-videoeditor-with-fi…	r/1.6.x	"Karen Dolan (381)"
+M	#408	2015/02/16	"Michael Stypa"	"Added documentation for module …"	doofy/matterhorn	markdown-git-documentation	markdown-git…	
+M	#407	2015/02/16	"Michael Stypa"	"MH-10636 Add YouTube API V3 module"	doofy/matterhorn	youtube-api-v3	develop	"Tobias Wunden (373)"
+M	#406	2015/02/16	"Lukas Rohner"	"MH-10635 Using the new process executor to get rid of dead …"	opencast-community/matterhorn	t/MH-10635-streamreader-lock	r/2.0.x	"Lars Kiesow (330)"
+M	#405	2015/02/16	"Lukas Rohner"	"MH-10630 Extending common functionality"	opencast-community/matterhorn	t/MH-10630-common-improvements	r/2.0.x	"Lars Kiesow (330)"
+M	#404	2015/02/16	"Lukas Rohner"	"MH-10629 Added serviceregistry improvements"	opencast-community/matterhorn	t/MH-10629-serviceregistry-imp…	develop	"Rüdiger Rolf (380)"
+M	#403	2015/02/16	"Lukas Rohner"	"MH-10631 Fixed handling of unauthorized scheduler rest calls"	opencast-community/matterhorn	t/MH-10631-scheduler-authoriza…	r/2.0.x	"Rüdiger Rolf (372)"
+M	#402	2015/02/16	"Lukas Rohner"	"MH-10632 Improved some unit tests"	opencast-community/matterhorn	t/MH-10632-unit-test-fixes	develop	"Lars Kiesow (378)"
+M	#401	2015/02/16	"Lukas Rohner"	"MH-10634 Added mimetype to created XACML attachment"	opencast-community/matterhorn	t/MH-10634-authorization-mimet…	develop	"Lars Kiesow (378)"
+M	#400	2015/02/16	"Lukas Rohner"	"MH-10633 Fixed videosegmenter ffmpeg pom"	opencast-community/matterhorn	t/MH-10633-videosegmenter-pom	develop	"Lars Kiesow (380)"
+M	#399	2015/02/16	"Michael Stypa"	"MH-10628 Remove videosegmenter-impl in favor of …"	doofy/matterhorn	rm-videosegmenter-impl	develop	"Tobias Wunden (373)"
+M	#398	2015/02/13	"Rüdiger Rolf"	"MH-10343 Harvard contribution: FFmpeg implementation of the …"	opencast-community/opencast-osnabrueck-fork	f/MH-10343_ffmpeg_videoeditor	develop	"Tobias Wunden (373)"
+M	#397	2015/02/13	"Rüdiger Rolf"	"MH-10154 Parallel encoding of several output files in ffmpeg"	opencast-community/opencast-osnabrueck-fork	f/MH-10154_ffmpeg_multi_file_o…	develop	"Tobias Wunden (373)"
+D	#396	2015/02/13	"Lukas Rohner"	"[MH-10625] The new admin ui"	opencast-community/matterhorn	f/MH-10625-admin-ui-ng	develop	"Lars Kiesow (386)"
+M	#395	2015/02/13	"Lars Kiesow"	"MH-10573, Ignore testSorting of search-service-impl"	lkiesow/matterhorn	t/MH-10573-ignore-test-sorting	develop	"Tobias Wunden (381)"
+M	#394	2015/02/12	"Denis Meyer"	"MH-9950 The new Matterhorn Engage Player - Theodul Pass …"	opencast-community/opencast-osnabrueck-fork	f/MH-9950-theodul-pass-player	develop	"Xavier Butty (369)"
+M	#393	2015/02/12	"Lars Kiesow"	"MH-10624, Fixed Some FFmpeg Videosegmenter Issues"	lkiesow/matterhorn	t/MH-10624-videosegmenter-fix	develop	"Lukas Rohner (383)"
+M	#392	2015/02/12	"Lars Kiesow"	"MH-10623, Set Sensible Default for Workspace Cleanup Period"	lkiesow/matterhorn	t/MH-10623-default-workspace-c…	develop	"Lukas Rohner (383)"
+M	#391	2015/02/11	"Lars Kiesow"	"MH-10622, Wave Generation Improvement"	lkiesow/matterhorn	t/MH-10622-wav-generation-impr…	develop	"Lukas Rohner (383)"
+M	#390	2015/02/11	"Lars Kiesow"	"MH-10621, Fix MediaPackagePost Unit Tests"	lkiesow/matterhorn	t/MH-10621-fix-mediapackagepos…	develop	"Greg Logan (387)"
+M	#389	2015/02/11	"Lars Kiesow"	"MH-10620, Port Silence Detector from GStreamer to FFmpeg"	lkiesow/matterhorn	f/MH-10620-ffmpeg-silence-dete…	develop	"Tobias Wunden (380)"
+D	#388	2015/02/10	"Lars Kiesow"	"MH-10616, Set Compiler Plugin to Target to Java 7"	lkiesow/matterhorn	t/MH-10616-compiler-plugin-tar…	develop	
+M	#387	2015/02/10	"Lars Kiesow"	"MH-10615, Enable Optional Compiler Arguments"	lkiesow/matterhorn	t/MH-10615-optional-compiler-a…	develop	"Tobias Wunden (381)"
+M	#386	2015/02/06	"Lars Kiesow"	"Corrections to LDAP Configuration Comments"	lkiesow/matterhorn	ldap-docs	develop	"Tobias Wunden (389)"
+M	#385	2015/01/29	"Edmore Moyo"	"MH-10602 : Parse urls to prevent mixed content errors"	etmoyo/matterhorn	t/MH-10602-mixed-content-video…	r/1.6.x	"Lars Kiesow (396)"
+M	#384	2015/01/28	"Greg Logan"	"POM file information"	greg_logan/matterhorn	t/fix-pomfile-info	r/1.6.x	"Rüdiger Rolf (401)"
+M	#383	2015/01/28	"Greg Logan"	"MATT-10542 and MATT-10601: Fix ingest start times and …"	greg_logan/matterhorn	t/MH-10542-MH-10601-ingest-ope…	r/1.5.x	"Rüdiger Rolf (382)"
+M	#382	2015/01/28	"Greg Logan"	"MATT-10542 and MATT-10601: Fix ingest start times and …"	greg_logan/matterhorn	t/MH-10542-MH-10601-ingest-ope…	r/1.6.x	"Rüdiger Rolf (382)"
+M	#381	2015/01/27	"Don Carlos"	"Prevent: Cache 'null' values"	don_carlos_graz/matterhorn	f/MH-10572-caches	develop	"Lukas Rohner (403)"
+D	#380	2015/01/27	"Don Carlos"	"Prevent: Cache 'null' values (fixes MH-10572)"		f/MH-10572-caches	develop	"Lukas Rohner (403)"
+M	#379	2015/01/23	"Michael Stypa"	"MH-10597: Fixes logger class for inspect workflow operation …"	doofy/matterhorn	inspectloggerclass	develop	"Karen Dolan (403)"
+M	#378	2015/01/23	"Lars Kiesow"	"MH-10594, Re-configure Start Scripts for Different …"	lkiesow/matterhorn	t/MH-10594-start-scripts	develop	"Ruben Perez Vazquez (396)"
+M	#377	2015/01/20	"Rüdiger Rolf"	"MH-10591 videoeditor tmpfile improvements"	opencast-community/opencast-osnabrueck-fork	MH-10591-videoeditor-tmpfile-i…	r/1.6.x	"Edmore Moyo (404)"
+D	#376	2015/01/20	"Rüdiger Rolf"	"MH-10591 Videoeditor tmpfile improvements"	opencast-community/opencast-osnabrueck-fork	MH-10591-videoeditor-tmpfile-i…	r/1.6.x	
+M	#375	2015/01/16	"Karen Dolan"	"MATT-10589 Increase EclipseLink log level"	opencast-community/matterhorn	t/MH-10589-Increase-EclipseLin…	develop	"Lars Kiesow (414)"
+M	#374	2015/01/08	"Lars Kiesow"	"MH-10110, Spanish Test Case for RegExp Dict"	lkiesow/matterhorn	t/MH-10110-spanish-test-for-re…	develop	"Ruben Perez Vazquez (421)"
+M	#373	2015/01/07	"Tobias Wunden"	"MH-10587 [bugfix] Making sure corrupt files are being …"	twunden/matterhorn	t/MH-10587-corrupt-acl-cleanup	develop	"Lars Kiesow (407)"
+M	#372	2015/01/07	"Tobias Wunden"	"MH-10580 [improvement] Improved loading of series data when …"	twunden/matterhorn	t/MH-10580-series-feed-perform…	develop	"James Perrin (396)"
+M	#371	2015/01/07	"Tobias Wunden"	"MH-10586 [improvement] Fixes link generation to use the …"	twunden/matterhorn	t/MH-10586-feed-links-per-tena…	develop	"Denis Meyer (417)"
+M	#370	2015/01/07	"Lukas Rohner"	"MH-10585 Removed initial request path attribute if no path …"	opencast-community/matterhorn	t/MH-10585-entry-point	develop	"Waldemar Smirnow (416)"
+M	#369	2015/01/07	"Lukas Rohner"	"MH-10584 Order media package element selector results"	opencast-community/matterhorn	t/MH-10584-element-selector	develop	"Waldemar Smirnow (416)"
+M	#368	2015/01/07	"Lukas Rohner"	"MH-10583 Fixed hanging job barrier"	opencast-community/matterhorn	t/MH-10583-job-barrier	develop	"Denis Meyer (417)"
+M	#367	2015/01/07	"Lukas Rohner"	"MH-10582 Improve functional API of TrustedHttpClient"	opencast-community/matterhorn	t/MH-10582-trustedhttpclient	develop	"Rüdiger Rolf (417)"
+M	#366	2015/01/07	"Lukas Rohner"	"MH-10581 Added copy workflow operation handler and some …"	opencast-community/matterhorn	f/MH-10581-copy-operation-hand…	develop	"Lars Kiesow (399)"
+M	#365	2015/01/07	"Tobias Wunden"	"Restarting of workflows does not work reliably"	twunden/matterhorn	t/MH-10579-restart-workflows	develop	"Lars Kiesow (422)"
+M	#364	2015/01/07	"Tobias Wunden"	"MH-10578 [improvement] Implemented graceful handling of job …"	twunden/matterhorn	t/MH-10578-method-not-allowed	develop	"Greg Logan (422)"
+M	#363	2015/01/07	"Tobias Wunden"	"Job dispatching maybe unfair in situations where many jobs …"	twunden/matterhorn	t/MH-10577-job-dispatching	develop	"Greg Logan (422)"
+M	#362	2014/12/16	"Greg Logan"	"MH-10570: Fixes obvious issue with statistics when a job …"	greg_logan/matterhorn	t/MH-10570-stats-broken-when-j…	r/1.5.x	"Rüdiger Rolf (444)"
+M	#361	2014/12/16	"Greg Logan"	"MH-10570: Fixes obvious issue with statistics when a job …"	greg_logan/matterhorn	t/MH-10570-stats-broken-when-j…	r/1.6.x	"Rüdiger Rolf (444)"
+M	#360	2014/12/16	"Greg Logan"	"MH-10570: Fixes obvious issue with statistics when a job …"	greg_logan/matterhorn	t/MH-10570-stats-broken-when-j…	develop	"Rüdiger Rolf (444)"
+M	#359	2014/12/09	"Lukas Rohner"	"MH-10563 Changed series queries count and startPage to int …"	opencast-community/matterhorn	t/MH-10563-series-query	r/1.6.x	"Denis Meyer (446)"
+M	#358	2014/12/08	"Lars Kiesow"	"MH-10317, Bundle Dependency Update"	lkiesow/matterhorn	t/MH-10317-dependency-update	develop	"Karen Dolan (398)"
+M	#357	2014/12/08	"Rüdiger Rolf"	"MH-10561 Added missing workflow-api dependency to …"	opencast-community/matterhorn	t/MH-10561-serviceregistry-dep…	r/1.6.x	
+M	#356	2014/12/03	"Rüdiger Rolf"	"MH-10559 removed unneeded series service impl dependency"	opencast-community/matterhorn	t/MH-10559-engage-standalone-f…	r/1.6.x	"Greg Logan (457)"
+M	#355	2014/12/03	"Lars Kiesow"	"MH-10557, Simplify SQL and Unitize Index Names"	lkiesow/matterhorn	t/MH-10557-simplify-sql-adjust…	r/1.6.x	"James Perrin (396)"
+M	#354	2014/12/02	"Michael Stypa"	"MH-10510: module matterhorn-conductor splitted into single …"	doofy/matterhorn	conductor-split	develop	"Greg Logan (453)"
+M	#353	2014/12/01	"Ruben Perez Vazquez"	"MH-10555 : Fixed MP editor validation mechanism"	uni-koeln/matterhorn-uni-k-ln	MH-10555-disable-buttons	r/1.6.x	"Lars Kiesow (459)"
+M	#352	2014/12/01	"Lars Kiesow"	"MH-10551, Disable JMX by Default"	lkiesow/matterhorn	t/MH-10551-JMX-default-setting…	r/1.6.x	"Karen Dolan (458)"
+M	#351	2014/12/01	"Lars Kiesow"	"MH-10551, Disable JMX by Default"	lkiesow/matterhorn	t/MH-10551-JMX-default-setting…	r/1.5.x	"James Perrin (417)"
+D	#350	2014/12/01	"Lars Kiesow"	"MH-10551, Disable JMX by Default"	lkiesow/matterhorn	t/MH-10551-JMX-default-setting…	r/1.4.5	"Greg Logan (459)"
+M	#349	2014/11/26	"Lars Kiesow"	"MH-10550, Add --notty to start script"	lkiesow/matterhorn	f/MH-10550-matterhorn-start-no…	develop	"Tobias Wunden (410)"
+M	#348	2014/11/25	"Tobias Wunden"	"MH-10531 [Bugfix] Implemented workaround for cyclic …"	twunden/matterhorn	t/MH-10531-inciden-npe	r/1.6.x	"Rüdiger Rolf (463)"
+M	#347	2014/11/24	"Tobias Wunden"	"MH-9925 -- Fixed the copyright in feeds"	twunden/matterhorn	t/MH-9925-feed-metadata	r/1.6.x	"Rüdiger Rolf (466)"
+M	#346	2014/11/24	"Greg Logan"	"MH-10549: Fixing REST doc checkbox issue."	greg_logan/matterhorn	t/MH-10549-boolean-restdocs	r/1.6.x	"Denis Meyer (466)"
+M	#345	2014/11/24	"Greg Logan"	"MH-10549: Fixing REST doc checkbox issue."	greg_logan/matterhorn	t/MH-10549-boolean-restdocs	r/1.5.x	"Denis Meyer (466)"
+D	#344	2014/11/21	"Lars Kiesow"	"MH-10548, Start Script Fails Without TTY"	lkiesow/matterhorn	t/MH-10548-start-script-fails-…	r/1.6.x	
+M	#343	2014/11/19	"Lars Kiesow"	"MH-10508, Ingest Service fails to Handle Episode DC Catalog"	lkiesow/matterhorn	t/MH-10508-episode-dcc-ingest-…	r/1.6.x	"Lukas Rohner (471)"
+D	#342	2014/11/13	"Lars Kiesow"	"MH-10508, Ingest Service fails to Handle Episode DC Catalog"	lkiesow/matterhorn	t/MH-10508-episode-dcc-ingest-…	r/1.6.x	"Lukas Rohner (474)"
+M	#341	2014/11/13	"Ruben Perez Vazquez"	"MH-10545: Modified oc-pager.js to parse URL query strings …"	uni-koeln/matterhorn-uni-k-ln	MH-10545-pager-ignores-query-p…	r/1.6.x	"Denis Meyer (472)"
+M	#340	2014/11/13	"Lars Kiesow"	"MH-10544, CA warning in start script for demo servers"	lkiesow/matterhorn	t/MH-10544-demo-ca-start-scrip…	r/1.6.x	"Greg Logan (478)"
+M	#339	2014/11/11	"Edmore Moyo"	"MH-10543 : Fixed POST endpoints"	etmoyo/matterhorn	t/MH-10543-audio-normalization…	r/1.6.x	"Waldemar Smirnow (480)"
+M	#338	2014/11/08	"Lars Kiesow"	"MH-10541, Disable Default Matterhorn Adopter Tracking"	lkiesow/matterhorn	t/MH-10541-disable-default-ado…	r/1.6.x	"Edmore Moyo (478)"
+M	#337	2014/11/04	"Lukas Rohner"	"MH-10520 Fixed mysql update script 1.5 to 1.6"	opencast-community/matterhorn	t/MH-10520-upgrade-script	r/1.6.x	"Lars Kiesow (486)"
+M	#336	2014/11/04	"Lukas Rohner"	"MH-10480 Fixed display issues with incident encoding failed …"	opencast-community/matterhorn	t/MH-10480-incident-display-is…	r/1.6.x	"Rüdiger Rolf (487)"
+M	#335	2014/11/04	"Waldemar Smirnow"	"MH-10478 matterhorn-smil-impl unit test fails without …"	wsmirnow/matterhorn	t/MH-10478-matterhorn-smil-imp…	r/1.6.x	"Edmore Moyo (487)"
+M	#334	2014/10/31	"Waldemar Smirnow"	"MH-10499 unit tests for the videoeditor and …"	wsmirnow/matterhorn	t/MH-10499-unit-tests-for-vide…	r/1.6.x	"Xavier Butty (487)"
+M	#333	2014/10/31	"James Perrin"	"MH-10527, close http response after use"	jperrin/matterhorn	t/MH-10527-ingest-download-han…	r/1.5.x	"Waldemar Smirnow (491)"
+M	#332	2014/10/31	"James Perrin"	"MH-10527, close http response after use"	jperrin/matterhorn	t/MH-10527-ingest-download-han…	r/1.6.x	"Lars Kiesow (491)"
+M	#331	2014/10/31	"Lars Kiesow"	"MH-10365, Disabling YouTube actually disables Metadata …"	lkiesow/matterhorn	t/MH-10365-trim-disabling-yout…	r/1.6.x	"James Perrin (491)"
+M	#330	2014/10/30	"Lars Kiesow"	"MH-10488 Remove out-dated information about Bamboo build …"	lkiesow/matterhorn	t/MH-10488-remove-bamboo-from-…	r/1.6.x	"James Perrin (491)"
+M	#329	2014/10/30	"Lars Kiesow"	"MH-10516, JavaScript Error on welcome.html"	lkiesow/matterhorn	t/MH-10516-js-error-on-welcome…	r/1.6.x	"James Perrin (491)"
+M	#328	2014/10/30	"Lars Kiesow"	"MH-10515, User Might be Redirected to JSON files after …"	lkiesow/matterhorn	t/MH-10515-redirect-after-logi…	r/1.6.x	"James Perrin (487)"
+M	#327	2014/10/30	"James Perrin"	"MH-10477, Use objects instead of ""Associative Arrays"""	jperrin/matterhorn	t/MH-10477-Engage-broke-for-Fi…	r/1.6.x	"Lars Kiesow (492)"
+M	#326	2014/10/30	"Rüdiger Rolf"	"MH-10506 added FLV tag to rtmp links"	opencast-community/matterhorn	t/MH-10506-add-flv-tag	r/1.6.x	"Edmore Moyo (487)"
+M	#325	2014/10/29	"Lars Kiesow"	"MH-10513, Jumping Icons on Statistics Page"	lkiesow/matterhorn	t/MH-10513-jumping-icons-on-st…	r/1.6.x	"Edmore Moyo (487)"
+M	#324	2014/10/29	"Rüdiger Rolf"	"MH-10511 Atom feed generation: prevented null pointer …"	opencast-community/matterhorn	t/MH-10511-atom-feed-null-poin…	r/1.6.x	"Tobias Wunden (480)"
+M	#323	2014/10/27	"Greg Logan"	"MH-10507: Removing problematic directory cleanup routine. …"	greg_logan/matterhorn	MH-10507-wfr-excessive-cleanup	r/1.6.x	"Rüdiger Rolf (494)"
+M	#322	2014/10/27	"Tobias Wunden"	"MH-10494 -- Removed configuration for the non-existing …"	twunden/matterhorn	t/MH-10494-httpclient-wiring	r/1.6.x	"Rüdiger Rolf (494)"
+M	#321	2014/10/27	"Lars Kiesow"	"MH-10505, Preview Video for Captioning is Dependent on …"	lkiesow/matterhorn	t/MH-10505-preview-for-caption…	r/1.6.x	"James Perrin (494)"
+M	#320	2014/10/24	"Lars Kiesow"	"MH-10503, Inconsistent Workflow Titles"	lkiesow/matterhorn	t/MH-10503-inconsistent-workfl…	r/1.6.x	"James Perrin (494)"
+M	#319	2014/10/23	"Greg Logan"	"MH-10479: Admin UI does not clear its search term if it is …"	greg_logan/matterhorn	t/MH-10479-admin-search-clear	r/1.6.x	"Waldemar Smirnow (498)"
+M	#318	2014/10/23	"Greg Logan"	"MH-10479: Admin UI does not clear its search term if it is …"	greg_logan/matterhorn	t/MH-10479-admin-search-clear	r/1.5.x	"Waldemar Smirnow (498)"
+M	#317	2014/10/23	"Karen Dolan"	"MH-10324 add seriesId and sort to pager link - 1.6.x"	kdolan/matterhorn-opencast	t/MH-10324-LTI-series-pager-fi…	r/1.6.x	"Denis Meyer (499)"
+M	#316	2014/10/23	"Karen Dolan"	"MH-10324 add seriesId to pager link - 1.5.x"	kdolan/matterhorn-opencast	t/MH-10324-LTI-series-pager-fi…	r/1.5.x	"Denis Meyer (499)"
+M	#315	2014/10/22	"Lars Kiesow"	"MH-10489, Switch audio encoder for videoeditor"	lkiesow/matterhorn	t/MH-10489-videoeditor-audio-e…	r/1.6.x	"James Perrin (494)"
+M	#314	2014/10/22	"Lars Kiesow"	"MH-10498, Fix Felix Prompt Version Message for 1.6"	lkiesow/matterhorn	t/MH-10498-16-version-felix-pr…	r/1.6.x	"Tobias Wunden (500)"
+M	#313	2014/10/21	"Per Pascal Grube"	"MH-10407 ffmpeg-based video segmenter"	pascalgrube/matterhorn	mh-10407-ffmpeg-video-segmente…	develop	"Lars Kiesow (500)"
+D	#312	2014/10/21	"Michael Stypa"	"MH-10510: module matterhorn-conductor splitted into single …"	doofy/matterhorn	develop	develop	"Greg Logan (487)"
+M	#311	2014/10/20	"Lars Kiesow"	"MH-10495, Remove -strict unofficial from encoding properties"	lkiesow/matterhorn	t/MH-10495-remove-strict-unoff…	r/1.6.x	"Tobias Wunden (500)"
+M	#310	2014/10/16	"Tobias Wunden"	"MH-10494 -- Removed configuration for the non-existing …"	twunden/matterhorn	t/MH-10494-httpclient-wiring	r/1.5.x	"Denis Meyer (502)"
+M	#309	2014/10/16	"Tobias Wunden"	"MH-10493 -- Adjusted the version prompt to read ""1.5"" …"	twunden/matterhorn	t/MH-10493-version-in-felix-pr…	r/1.5.x	"Denis Meyer (502)"
+M	#308	2014/10/15	"Basil Brunner"	"MH-10488 Remove out-dated information about Bamboo build …"	myniva/matterhorn	t/MH-10488-remove-bamboo-from-…	r/1.5.x	"Denis Meyer (502)"
+M	#307	2014/10/14	"Greg Logan"	"MH-10447: Fix distributing n*2048 sized files in r/1.6.x"	opencast-community/matterhorn	t/MH-10447-StaticResourceServl…	r/1.6.x	"Rüdiger Rolf (502)"
+D	#306	2014/10/14	"Greg Logan"	"MH-10447: Fix distributing n*2048 sized files in develop"	opencast-community/matterhorn	t/MH-10447-StaticResourceServl…	develop	
+M	#305	2014/10/08	"Lars Kiesow"	"MH-10485, Remove GStreamer Encoding Properties"	lkiesow/matterhorn	t/MH-10485-remove-gsencoding-p…	r/1.6.x	"Lukas Rohner (512)"
+M	#304	2014/10/08	"Lars Kiesow"	"MH-10332, Remove Mediainfo Inspection Service"	lkiesow/matterhorn	t/MH-10332-remove-mediainfo-in…	develop	"Adam McKenzie (511)"
+M	#303	2014/10/08	"Lars Kiesow"	"MH-10482, Switched Encoding Settings for Composite/Concat"	lkiesow/matterhorn	t/MH-10482-no-faac-in-encoding…	r/1.6.x	"Adam McKenzie (508)"
+M	#302	2014/10/08	"Denis Meyer"	"MH-10483 + MH-10470"		t/MH-10483-cleanup-and-timebug…	r/1.6.x	"James Perrin (508)"
+M	#301	2014/10/07	"Lars Kiesow"	"MH-10481, Fix encoding profile for videoeditor preview"	lkiesow/matterhorn	t/MH-10481-videoeditor-preview…	r/1.6.x	"James Perrin (508)"
+M	#300	2014/10/05	"Lars Kiesow"	"MH-10476, Special Character Problem in Dictionary Service"	lkiesow/matterhorn	t/MH-10476-hunspell-dict-speci…	r/1.6.x	"Edmore Moyo (509)"
+M	#299	2014/10/03	"Lars Kiesow"	"MH-10474, Fixed Matterhron Title on Welcome Page"	lkiesow/matterhorn	t/MH-10474-title-on-welcome-pa…	r/1.6.x	
+M	#298	2014/10/02	"Lars Kiesow"	"MH-10357, gstreamer-service-* missing from main pom.xml"	lkiesow/matterhorn	t/MH-10357-missing-gstreamer-s…	r/1.6.x	"Tobias Wunden (519)"
+M	#297	2014/10/01	"Waldemar Smirnow"	"MH-10467 videoeditor workflow operation option to set input …"	wsmirnow/matterhorn	t/MH-10467-videoeditor-skip-op…	r/1.6.x	"Xavier Butty (508)"
+M	#296	2014/10/01	"Rüdiger Rolf"	"MH-10471 removed problematic comment"	opencast-community/matterhorn	t/MH-10471-saxparser-error	develop	"Karen Dolan (521)"
+M	#295	2014/09/24	"Greg Logan"	"MH-8638: The missing bits"	greg_logan/matterhorn	t/MH-8638-stats-queries	develop	
+M	#294	2014/09/19	"Lukas Rohner"	"MH-6386 [Bugfix] Changed test file to flac instead of mp3"	opencast-community/matterhorn	t/MH-6386-sox-service	develop	"Lars Kiesow (533)"
+M	#293	2014/09/18	"Adam McKenzie"	"Automatic scanners for job management"	opencast-community/matterhorn	t/MH-6282-Automatic-job-finds-…	develop	"Karen Dolan (522)"
+D	#292	2014/09/17	"Rüdiger Rolf"	"MH-10450 removed part of the test that did the error …"	opencast-community/matterhorn	t/MH-10450-failing-smtpservice…	develop	
+M	#291	2014/09/17	"Christoph Drießen"	"MH-10448 fix resource leak in TrustedHttpClientImpl"	opencast-community/matterhorn	t/MH-10448-TrustedHttpClientIm…	r/1.5.0	"Rüdiger Rolf (534)"
+M	#290	2014/09/16	"Karen Dolan"	"MH-10447: Fix distributing n*2048 sized files in r/1.5.x"	opencast-community/matterhorn	t/MH-10447-StaticResourceServl…	r/1.5.x	"Ruben Perez Vazquez (535)"
+M	#289	2014/09/12	"Greg Logan"	"MH-10419: User Tracking Improvments"	greg_logan/matterhorn	t/MH-10419-user-tracking-impro…	develop	"Rüdiger Rolf (536)"
+M	#288	2014/09/02	"Adam McKenzie"	"MH-10421 - Fixing the + button to add additional …"	opencast-community/matterhorn	t/MH-10421-Fix-adding-addition…	r/1.5.0	"Greg Logan (550)"
+M	#287	2014/08/26	"Adam McKenzie"	"MH-10417 - Fixing jqote substitution of acl select"	opencast-community/matterhorn	t/MH-10417-Fix-acl-templating	r/1.5.0	"Greg Logan (557)"
+M	#286	2014/08/20	"Lars Kiesow"	"MH-10258, NullPointerException on empty text extraction …"	lkiesow/matterhorn	t/MH-10258-fix-nullpointerexce…	r/1.5.0	"Karen Dolan (554)"
+M	#285	2014/08/19	"Lukas Rohner"	"MH-10404 [Bugfix] Fixed autocreate of series exception on …"	opencast-community/matterhorn	t/MH-10404-series-autocreate	r/1.5.0	"Lars Kiesow (564)"
+M	#284	2014/08/18	"Lars Kiesow"	"MH-10403, Special character issue in /ingest/addMediaPackage"	lkiesow/matterhorn	t/MH-10403-special-characters-…	r/1.5.0	"Tobias Wunden (564)"
+M	#283	2014/08/18	"Lars Kiesow"	"MH-10402, Fix NullPointerException in Ingest Endpoint"	lkiesow/matterhorn	t/MH-10402-ingest-nullpointer-…	r/1.5.0	"Tobias Wunden (565)"
+M	#282	2014/08/13	"Ruben Gonzalez"	"MH-10202 -- No ACL in new series when ingested a new …"	rubenrua/matterhorn	f/MH-10202-No-ACL-in-new-serie…	develop	"Lukas Rohner (564)"
+M	#281	2014/08/13	"Ruben Gonzalez"	"MH-9565 : Teltek Execute Service"	rubenrua/matterhorn	f/MH-9565-teltek-execute-servi…	develop	"Adam McKenzie (564)"
+M	#280	2014/08/13	"Lukas Rohner"	"MH-10385 [Improvement] Added optional track support to …"	opencast-community/matterhorn	f/MH-10385-concat-improvement	develop	"Waldemar Smirnow (557)"
+D	#279	2014/08/11	"Greg Logan"	"MH-9791: Selenium Tests"	greg_logan/matterhorn	t/MH-9791-selenium-tests	develop	"Lars Kiesow (571)"
+M	#278	2014/08/10	"Lars Kiesow"	"MH-10382, Add UI Element to Unregister Capture Agents"	lkiesow/matterhorn	f/MH-10382-unregister-ca-butto…	develop	"Greg Logan (571)"
+M	#277	2014/08/06	"Greg Logan"	"MH-10374: Adds series id column to mh_search table"	greg_logan/matterhorn	f/MH-10374-search-series-id	develop	"Denis Meyer (575)"
+M	#276	2014/08/01	"Matjaz Rihtar"	"MH-10368: Debian 7.x (Wheezy) support"	opencast-community/matterhorn	t/MH-10368-Debian-7.x-support	develop	"Greg Logan (577)"
+M	#275	2014/07/29	"Matjaz Rihtar"	"Ubuntu 14.04 support (gstreamer0.10-ffmpeg)"	opencast-community/matterhorn	t/MH-10348-Ubuntu-14.04-suppor…	r/1.5.0	"Greg Logan (584)"
+M	#274	2014/07/25	"Basil Brunner"	"MH-10362 Extract parsing of XACML from …"	myniva/matterhorn	t/MH-10362-parse-xacml	develop	"Benjamin Wulff (576)"
+M	#273	2014/07/24	"Ruben Gonzalez"	"MH-10361 - Incorrect anonymous role when a series is …"	rubenrua/matterhorn	f/MH-10361-incorrect-anonymous…	r/1.5.0	"Ruben Perez Vazquez (585)"
+M	#272	2014/07/23	"Lars Kiesow"	"MH-10359, Replace Symlink for DB Update Script"	lkiesow/matterhorn	t/MH-10359-remove-symlink-for-…	r/1.5.0	"Greg Logan (584)"
+M	#271	2014/07/22	"Greg Logan"	"MH-10358: Fixes missing authorization-xacml bundle from the …"	opencast-community/matterhorn	t/MH-10358-ingest-standalone-m…	r/1.5.0	"Tobias Wunden (562)"
+M	#270	2014/07/22	"Adam McKenzie"	"MH-10301 - This fixes the workflow inspect (gear) as the …"	opencast-community/matterhorn	t/MH-10301-Adminui-doesnt-esca…	r/1.5.0	"Greg Logan (592)"
+M	#269	2014/07/17	"Lars Kiesow"	"MH-10357, gstreamer-service-* missing from main pom.xml"	lkiesow/matterhorn	t/MH-10357-gstreamer-service-i…	r/1.5.0	"Greg Logan (593)"
+M	#268	2014/07/16	"Ruben Perez Vazquez"	"MH-10139 : Change the column type for the mediapackage XML …"	opencast-community/matterhorn	t/MH-10139-database-columns-to…	r/1.5.0	"Greg Logan (598)"
+M	#267	2014/07/11	"Adam McKenzie"	"MH-10301 - Changing jqote to use html safe templating"	opencast-community/matterhorn	t/MH-10301-User-Input-Html-Saf…	r/1.5.0	"James Perrin (597)"
+M	#266	2014/07/10	"Lars Kiesow"	"MH-10005, Fix Workflow Operation Conditions of Appended …"	lkiesow/matterhorn	t/MH-10005-append-workflow-woh…	r/1.5.0	"Tobias Wunden (602)"
+M	#265	2014/07/10	"Ruben Perez Vazquez"	"MH-10323 : Group scheduling, does not check that a series …"	opencast-community/matterhorn	t/MH-10323-group-scheduling-se…	r/1.5.0	"Rüdiger Rolf (603)"
+M	#264	2014/07/09	"Adam McKenzie"	"Enable workflows to be applied to a group of recordings in …"	opencast-community/matterhorn	t/MH-10352-Apply-workflow-to-s…	develop	"Karen Dolan (578)"
+M	#263	2014/07/09	"James Perrin"	"MH-10183, don't override the default server urls for admin …"	jperrin/matterhorn	t/MH-10183-default-server-urls	r/1.5.0	"Rüdiger Rolf (603)"
+M	#262	2014/07/07	"Rüdiger Rolf"	"MH-10312 enable sort capabilities in the search service"	opencast-community/opencast-osnabrueck-fork	f/MH-10312-sort-in-searchservi…	develop	"Greg Logan (607)"
+D	#261	2014/07/03	"Lukas Rohner"	"MH-10342 [Improvement] Implemented an endpoint to start …"	opencast-community/matterhorn	f/MH-10342-capture-now	develop	
+M	#260	2014/07/03	"Lukas Rohner"	"MH-10333 [Bugfix] Fixed end date of recurring schedule …"	opencast-community/matterhorn	t/MH-10333-schedule-recurrent	r/1.5.0	"Rüdiger Rolf (611)"
+M	#259	2014/07/03	"Tobias Wunden"	"MH-10076 -- Improved out-of-the-box experience with loading …"	opencast-community/matterhorn	t/MH-10076-organization-mappin…	r/1.5.0	"James Perrin (611)"
+M	#258	2014/07/03	"Ruben Gonzalez"	"MH-10341: The Matterhorn Engage Players Description tab …"	rubenrua/matterhorn	MH-10341-the-matterhorn-engage…	r/1.5.0	"Ruben Perez Vazquez (611)"
+M	#257	2014/07/01	"Lukas Rohner"	"MH-8948 [Bugfix] Removed avoiding of checking for conflicts …"	opencast-community/matterhorn	t/MH-8948-scheduling-conflicts	r/1.5.0	"Rüdiger Rolf (613)"
+M	#256	2014/07/01	"Lukas Rohner"	"MH-10164 [Bugfix] Changed fallback logging of engage and …"	opencast-community/matterhorn	t/MH-10164-runtime-info-loggin…	r/1.5.0	"Lars Kiesow (613)"
+D	#255	2014/07/01	"Lukas Rohner"	"MH-10333 [Bugfix] Fixed rrule hour and mintue generation on …"	opencast-community/matterhorn	t/MH-10333-schedule-recurrent	r/1.5.0	"Rüdiger Rolf (613)"
+M	#254	2014/07/01	"Lukas Rohner"	"MH-9429 [Bugfix] Fixed series title sorting in episode UI"	opencast-community/matterhorn	t/MH-9429-episode-sorting	r/1.5.0	"James Perrin (613)"
+M	#253	2014/07/01	"Lukas Rohner"	"MH-10337 [Bugfix] Fixed mysql upgrade script 1.4.3 to 1.5.0"	opencast-community/matterhorn	t/MH-10337-upgrade-script	r/1.5.0	"Rüdiger Rolf (613)"
+M	#252	2014/06/27	"Rüdiger Rolf"	"MH-8100 Video Editor"	opencast-community/opencast-osnabrueck-fork	f/MH-8100-videoeditor	develop	"Lukas Rohner (578)"
+M	#251	2014/06/25	"Lars Kiesow"	"MH-10339, OpenJDK 8 Unit Test Compatibility"	lkiesow/matterhorn	t/MH-10339-openjdk-8-compatibi…	r/1.5.0	"Tobias Wunden (613)"
+M	#250	2014/06/25	"Lukas Rohner"	"MH-8638 [Bugfix] Fixed service statistics query when …"	opencast-community/matterhorn	t/MH-8638-service-statistics	r/1.5.0	"James Perrin (613)"
+D	#249	2014/06/24	"Greg Logan"	"MH-10340: Fails the Maven build if the Java process fails."	greg_logan/matterhorn	t/MH-10340-fail-integration-te…	develop	"Edmore Moyo (577)"
+M	#248	2014/06/24	"Greg Logan"	"MH-10340: Fails the Maven build if the Java process fails."	greg_logan/matterhorn	t/MH-10340-fail-integration-te…	r/1.5.0	"Tobias Wunden (613)"
+M	#247	2014/06/20	"Greg Logan"	"MH-10338: Removing Postgres DDL from codebase."	greg_logan/matterhorn	t/MH-10338-remove-postgres-1.5	r/1.5.0	"Rüdiger Rolf (618)"
+D	#246	2014/06/20	"Greg Logan"	"MH-10338: Removing Postgres DDL from codebase."	greg_logan/matterhorn	t/MH-10338-remove-postgres-dev…	develop	"Rüdiger Rolf (618)"
+D	#245	2014/06/18	"Lukas Rohner"	"MH-10335 [Improvement] Improve composer and ffmpeg …"	opencast-community/matterhorn	t/MH-10335-extract-image-by-fr…	develop	"Lars Kiesow (626)"
+M	#244	2014/06/17	"Karen Dolan"	"MH-10216, republish metadata workflow"	kdolan/matterhorn-opencast	t/MH-10216-republish-workflow-…	r/1.5.0	"Lars Kiesow (627)"
+M	#243	2014/06/12	"Lars Kiesow"	"MH-10328, FFmpegEncoderEngine Removes Encoding Placeholders"	lkiesow/matterhorn	t/MH-10328-encoding-profile-pl…	r/1.5.0	"Lukas Rohner (613)"
+M	#242	2014/06/12	"Lars Kiesow"	"MH-10330, Encoding Failures During FFmpegComposer Tests"	lkiesow/matterhorn	t/MH-10330-ffmpeg-test-profile…	r/1.5.0	"Edmore Moyo (627)"
+D	#241	2014/06/10	"Greg Logan"	"MH-9911: Fixing postgres column types per Alexander Bias' …"	greg_logan/matterhorn	t/MH-9911-postgres-column-type…	r/1.5.0	
+M	#240	2014/06/02	"Karen Dolan"	"[1.5.0] MH-9675, MH-9676 fix comment in workflows …"	kdolan/matterhorn-opencast	t/mh-9675-nodeKey-vs-key-ocWor…	r/1.5.0	"Xavier Butty (641)"
+D	#239	2014/06/02	"Karen Dolan"	"MH-9675, MH-9676 fix comment in workflows ocWorkflowPanel …"	kdolan/matterhorn-opencast	t/mh-9675-nodeKey-vs-key-ocWor…	develop	"Edmore Moyo (577)"
+M	#238	2014/06/02	"Tobias Wunden"	"MH-10292 -- Added support for a service property that …"	opencast-community/matterhorn	t/MH-10292-series-remote-servi…	r/1.5.0	"Ruben Perez Vazquez (627)"
+M	#237	2014/05/30	"Basil Brunner"	"MH-8638 -- Improve service statistics query"	myniva/matterhorn	t/MH-8638-stats-query-improvem…	r/1.5.0	"Rüdiger Rolf (627)"
+D	#236	2014/05/30	"Basil Brunner"	"MH-8638 -- Service statistics query improved"	myniva/matterhorn	t/MH-8638-stats-query-improvem…	r/1.5.x	
+M	#235	2014/05/30	"Greg Logan"	"MH-8638: Initial cleanup rev of the stats queries."	greg_logan/matterhorn	t/MH-8638-stats-queries	develop	"Lukas Rohner (578)"
+M	#234	2014/05/30	"Lars Kiesow"	"MH-10306, Fix XML schema instance namespace declaration"	lkiesow/matterhorn	t/MH-10306-schema-namespace-bi…	r/1.5.0	"Christoph Drießen (645)"
+M	#233	2014/05/29	"Greg Logan"	"MH-6875: Workflow UI preferences are now persisted in …"	greg_logan/matterhorn	t/MH-6875-persist-admin-prefs	develop	"Denis Meyer (610)"
+D	#232	2014/05/29	"Greg Logan"	"MH-8638: Initial cleanup rev of the stats queries."	greg_logan/matterhorn	t/MH-8638-stats-queries	r/1.5.0	"James Perrin (646)"
+M	#231	2014/05/29	"Lars Kiesow"	"MH-9083, Substring Search for Language and License"	lkiesow/matterhorn	t/MH-9083-substring-search-on-…	r/1.5.0	"James Perrin (634)"
+M	#230	2014/05/29	"Lars Kiesow"	"MH-10294, Fix MH may not build without local DNS entry"	lkiesow/matterhorn	t/MH-10294-build-error-centos-…	r/1.5.0	"James Perrin (627)"
+M	#229	2014/05/29	"Lars Kiesow"	"MH-10318, Remove test.txt"	lkiesow/matterhorn	t/MH-10318-remove-test-txt	r/1.5.0	"Tobias Wunden (642)"
+M	#228	2014/05/29	"Lars Kiesow"	"MH-9976, Searching for a series returns all series"	lkiesow/matterhorn	t/MH-9976-search-for-series	r/1.5.0	"James Perrin (634)"
+D	#227	2014/05/28	"Christoph Drießen"	"MH-10306 -- fix XML schema instance namespace declaration"	opencast-community/matterhorn	t/MH-10306-schema-namespace-bi…	r/1.5.0	"Lars Kiesow (646)"
+M	#226	2014/05/26	"Ruben Gonzalez"	"MH-10316 Series endpoint shows non-public series when …"	rubenrua/matterhorn	t/MH-10316-series-endpoint-sho…	r/1.5.0	"Xavier Butty (648)"
+M	#225	2014/05/24	"Lars Kiesow"	"MH-10220, Systemd Unit File"	lkiesow/matterhorn	t/MH-10220-systemd-unit-file	r/1.5.0	"Tobias Wunden (648)"
+M	#224	2014/05/23	"Lars Kiesow"	"MH-10313, Incorrect Ingest Parameters cause …"	lkiesow/matterhorn	t/MH-10313-ingest-nullpointer-…	r/1.5.0	"Lukas Rohner (648)"
+M	#223	2014/05/20	"Edmore Moyo"	"MH-10282 : Cannot delete scheduled recording when the title …"		t/MH-10282-delete-recording-ti…	r/1.5.0	"Greg Logan (655)"
+M	#222	2014/05/17	"Lars Kiesow"	"MH-10308, Switch default inspection service"	lkiesow/matterhorn	t/MH-10308-switch-inspection-s…	develop	"Adam McKenzie (655)"
+M	#221	2014/05/16	"Lars Kiesow"	"MH-10239, Tracks do not show up in TrimUI"	lkiesow/matterhorn	t/MH-10239-tracks-in-trim-ui-b	r/1.5.0	"Edmore Moyo (655)"
+M	#220	2014/05/15	"Lars Kiesow"	"MH-10234, Fileinstall directory based on config dir"	lkiesow/matterhorn	t/MH-10234-configuration-direc…	r/1.5.0	"Tobias Wunden (655)"
+M	#219	2014/05/14	"Lukas Rohner"	"MH-10255 -- Fixed merge issue with service policy and added …"	opencast-community/matterhorn	t/MH-10255-organization-servic…	r/1.5.0	"Rüdiger Rolf (656)"
+D	#218	2014/05/14	"Lukas Rohner"	"MH-10216 -- Fixed republish workflow"	opencast-community/matterhorn	t/MH-10216-republish-workflow	r/1.5.0	"Lars Kiesow (660)"
+M	#217	2014/05/13	"Tobias Wunden"	"MH-8747 -- fixed missing log4j initialization during …"	opencast-community/matterhorn	t/MH-8747-log4j-warning	r/1.5.0	"Greg Logan (662)"
+M	#216	2014/05/13	"Stephen Marquard"	"MH-10240 Manually setting trim to beginning and end causes …"	smarquard/matterhorn	t/mh-10240-manually-setting-tr…	r/1.5.0	"Lars Kiesow (662)"
+D	#215	2014/05/13	"Stephen Marquard"	"MH-10240 Manually setting trim to beginning and end causes …"	smarquard/matterhorn	t/MH-10240-fix-trim-end-error	r/1.5.0	
+M	#214	2014/05/13	"Lars Kiesow"	"MH-10288, Fix LTI Security Issues"	lkiesow/matterhorn	t/MH-10288-LTI-access-restrict…	r/1.5.0	"Tobias Wunden (662)"
+M	#213	2014/05/12	"Rüdiger Rolf"	"MH-10124 delete files from streaming server (updated for …"	opencast-community/opencast-osnabrueck-fork	t/MH-10124-delete-files-1.5	r/1.5.0	"Christoph Drießen (663)"
+D	#212	2014/05/08	"Greg Logan"	"MH-9626: Allows administrator and instructor level users …"	greg_logan/matterhorn	t/MH-9626-statistics-tab-permi…	r/1.5.0	"Tobias Wunden (662)"
+D	#211	2014/05/08	"Lars Kiesow"	"MH-10288, Fix LTI Security Issues"	lkiesow/matterhorn	t/MH-10288-LTI-access-restrict…	r/1.5.0	"Tobias Wunden (662)"
+D	#210	2014/05/07	"Greg Logan"	"MH-10292 : Prevent series-remote bundle from registering as …"	opencast-community/matterhorn	t/MH-10292-series-remote-15	r/1.5.0	"Tobias Wunden (645)"
+D	#209	2014/05/07	"Greg Logan"	"MH-10292 : Prevent series-remote bundle from registering as …"	opencast-community/matterhorn	t/MH-10292-series-remote	r/1.5.0	
+M	#208	2014/05/07	"Ruben Perez Vazquez"	"MH-10292 : Prevent series-remote bundle from registering as …"	opencast-community/matterhorn	t/MH-10292-series-remote	r/1.4.4	
+M	#207	2014/05/07	"Rüdiger Rolf"	"MH-10291 set in …"	opencast-community/opencast-osnabrueck-fork	t/MH-10291_deativate_job_stati…	r/1.5.0	"Tobias Wunden (662)"
+D	#206	2014/05/07	"Ruben Perez Vazquez"	"MH-10184 : Fixed UI issue that prevented the trimming …"	opencast-community/matterhorn	t/MH-10184-resume-workflow	r/1.5.0	"Lars Kiesow (668)"
+D	#205	2014/05/07	"Ruben Perez Vazquez"	"MH-10184 : Fixed UI issue that prevented the trimming …"	opencast-community/matterhorn	t/MH-10184-resume-workflow	r/1.4.4	"Lars Kiesow (668)"
+M	#204	2014/05/06	"Rute Santos"	MH-9738-customize-email-body	rute_santos/opencast-matterhorn-fork	t/MH-9738-customize-email-body	develop	"Xavier Butty (662)"
+M	#203	2014/05/06	"Lars Kiesow"	"MH-10023, Improve .gitignore"	lkiesow/matterhorn	t/MH-10023-improve-gitignore-2	r/1.5.0	"Greg Logan (669)"
+M	#202	2014/05/06	"Edmore Moyo"	"MH-10208 : Use correct endpoint for see more dropdown …"		t/MH-10208-phantom-na-see-more…	r/1.5.0	"Lars Kiesow (669)"
+M	#201	2014/05/05	"Lars Kiesow"	"MH-10288, Fix LTI Security Issues"	lkiesow/matterhorn	t/MH-10288-lti-security-fix-14…	r/1.4.4	
+M	#200	2014/05/05	"Lars Kiesow"	"MH-10285, Remove old DictionaryService Implementation"	lkiesow/matterhorn	t/MH-10285-remove-dictionary-t…	develop	"Tobias Wunden (662)"
+D	#199	2014/05/05	"Lars Kiesow"	"MH-10288, Fix LTI Security Issues"	lkiesow/matterhorn	t/MH-10288-lti-security-fix-14	r/1.4.4	
+D	#198	2014/05/05	"Edmore Moyo"	"MH-10208 : Use correct endpoint for see more dropdown"		t/MH-10208-phantom-na-see-more	r/1.5.0	
+M	#197	2014/05/02	"Lars Kiesow"	"MH-10174, Create Hunspell based DictionaryService"	lkiesow/matterhorn	f/MH-10174-hunspell-based-dict…	develop	"Tobias Wunden (662)"
+M	#196	2014/05/02	"Lars Kiesow"	"MH-10110, Create a RegExp Based DictionaryService"	lkiesow/matterhorn	f/MH-10110-regexp-based-dictio…	develop	"Tobias Wunden (662)"
+M	#195	2014/05/02	"Lars Kiesow"	"MH-10283, Forbid trailing spaces and require newline at eof"	lkiesow/matterhorn	t/MH-10283-trailing-spaces-new…	r/1.5.0	"Adam McKenzie (669)"
+D	#194	2014/05/02	"Lars Kiesow"	"MH-10239, Tracks do not show up in TrimUI"	lkiesow/matterhorn	t/MH-10239-tracks-in-trim-ui	r/1.5.0	"Edmore Moyo (668)"
+M	#193	2014/05/01	"James Perrin"	"MH-10277, Fixes XML chars <>& in series auto create"	jperrin/matterhorn	t/MH-10277-auto-series-handle-…	r/1.5.0	"Lars Kiesow (669)"
+D	#192	2014/04/29	"James Perrin"	"MH-10277, encode text used for series title"	jperrin/matterhorn	t/MH-10277-auto-series-handle-…	r/1.5.0	"Adam McKenzie (676)"
+M	#191	2014/04/27	"Lars Kiesow"	"MH-10276, Small/fast testing workflows and encoding profiles"	lkiesow/matterhorn	f/MH-10276-fast-testing-workfl…	develop	"Adam McKenzie (663)"
+M	#190	2014/04/26	"Lars Kiesow"	"Remove LTI from default security xml"	lkiesow/matterhorn	t/MH-10275-lti-default-15	r/1.5.0	"Greg Logan (676)"
+M	#189	2014/04/26	"Lars Kiesow"	"Remove LTI from default security xml"	lkiesow/matterhorn	t/MH-10275-lti-default-14	r/1.4.4	"Greg Logan (674)"
+M	#188	2014/04/25	"Greg Logan"	"MH-10270: Remove the Export and Analytics tools"	greg_logan/matterhorn	t/MH-10270-remove-export-and-a…	r/1.5.0	"Rüdiger Rolf (676)"
+M	#187	2014/04/24	"Lars Kiesow"	"MH-10264, Fix Ingest Inbox Relative Path"	lkiesow/matterhorn	t/MH-10264-inbox-relative-path…	r/1.5.0	"James Perrin (676)"
+M	#186	2014/04/24	"James Perrin"	"MH-8930, pop-up appears if user tries to leave the page …"	jperrin/matterhorn	t/MH-8930-upload-please-dont-l…	r/1.5.0	"Denis Meyer (677)"
+M	#185	2014/04/23	"Greg Logan"	"MH-10268: Fixes the CA install script to understand the …"	greg_logan/matterhorn	t/MH-10268-CA-install-script-1…	r/1.5.0	"Rüdiger Rolf (677)"
+M	#184	2014/04/23	"Greg Logan"	"MH-10268: Fixes the CA install script to install the …"	greg_logan/matterhorn	t/MH-10268-CA-install-script	r/1.4.4	"Rüdiger Rolf (677)"
+M	#183	2014/04/23	"Lars Kiesow"	"MH-10108, Fix Special Character Problem in Search Service …"	lkiesow/matterhorn	t/MH-10108-special-chars-in-di…	r/1.5.0	"Lukas Rohner (676)"
+M	#182	2014/04/23	"Lars Kiesow"	"MH-10108, Fix Special Character Problem in Search Service …"	lkiesow/matterhorn	t/MH-10108-special-chars-in-di…	r/1.4.4	"Greg Logan (674)"
+M	#181	2014/04/22	"Lars Kiesow"	"MH-10124, delete files from streaming server when retracting"	lkiesow/matterhorn	t/MH-10124-delete-streaming-fi…	r/1.4.4	"Greg Logan (674)"
+M	#180	2014/04/22	"Lars Kiesow"	"MH-10031, Added support for updating the last-seen …"	lkiesow/matterhorn	t/MH-10031-update-last-seen-ti…	r/1.4.4	
+D	#179	2014/04/22	"Lars Kiesow"	"MH-10264, Fix Ingest Inbox Relative Path"	lkiesow/matterhorn	t/MH-10264-inbox-relative-path	r/1.5.0	"James Perrin (681)"
+D	#178	2014/04/22	"Waldemar Smirnow"	"t/MH-10263 fixed bundle dependency version"	wsmirnow/matterhorn	t/10263-fix-bundle-dependency-…	develop	
+M	#177	2014/04/20	"Tobias Wunden"	"MH-10259 -- replaced the null pointer exception by a 404 in …"	opencast-community/matterhorn	t/MH-10259-npe-in-security-fil…	r/1.5.0	"Greg Logan (683)"
+M	#176	2014/04/19	"Tobias Wunden"	"MH-9598 -- Prevented processing overhead because of …"	opencast-community/matterhorn	t/MH-9598-joblimit	r/1.5.0	"Ruben Perez Vazquez (683)"
+D	#175	2014/04/19	"Tobias Wunden"	"MH-10258 -- fixed a nullpointer exception when all detected …"	opencast-community/matterhorn	t/MH-10258-npe-dictionary-clea…	r/1.5.0	"Lars Kiesow (683)"
+M	#174	2014/04/19	"Tobias Wunden"	"MH-10257 -- prevented a null pointer exception if the …"	opencast-community/matterhorn	t/MH-10257-cleanup-npe	r/1.5.0	"Tobias M Schiebeck (683)"
+D	#173	2014/04/19	"Tobias Wunden"	"MH-10256 -- Reduced log level and prevented logging of …"	opencast-community/matterhorn	t/MH-10256-prevent-delay-loggi…	r/1.5.0	"Tobias M Schiebeck (683)"
+M	#172	2014/04/18	"Lars Kiesow"	"MH-10254, Remove GStreamer Composer"	lkiesow/matterhorn	t/MH-10254-remove-gstreamer-co…	develop	"Greg Logan (662)"
+M	#171	2014/04/17	"James Perrin"	"MH-10237, stops returning to recordings tab if in and out …"	jperrin/matterhorn	t/MH-10237-trim-test-invalid-e…	r/1.5.0	"Lars Kiesow (683)"
+M	#170	2014/04/17	"James Perrin"	"MH-10252, redirect ROLE_COURSE_ADMIN and ROLE_INSTRUCTOR to …"	jperrin/matterhorn	t/MH-10252-course-instructor-a…	r/1.5.0	"Greg Logan (683)"
+M	#169	2014/04/15	"Lars Kiesow"	"MH-10242, Users tab cuts off roles"	lkiesow/matterhorn	t/MH-10242-user-tab-ui-roles	r/1.5.0	"Lukas Rohner (690)"
+M	#168	2014/04/15	"Lukas Rohner"	"MH-10233 -- Removed outdated userdirectory-jpa files"	opencast-community/matterhorn	t/MH-10233	r/1.5.0	"Lars Kiesow (690)"
+M	#167	2014/04/14	"Greg Logan"	"MH-10190: Distributed ingest exception"	greg_logan/matterhorn	t/MH-10190-distributed-schedul…	r/1.4.4	"Lars Kiesow (682)"
+D	#166	2014/04/13	"Lars Kiesow"	"MH-10235, Version Information for Users"	lkiesow/matterhorn	t/MH-10235-version-information	r/1.5.0	
+M	#165	2014/04/11	"James Perrin"	"MH-10230: welcome page typos"	jperrin/matterhorn	t/MH-10230-welcome-page-typos	r/1.5.0	"Lars Kiesow (694)"
+M	#164	2014/04/10	"Lars Kiesow"	"MH-10224, Fix non-uniform binary path defaults and docs"	lkiesow/matterhorn	t/MH-10224-binary-path-docs-an…	r/1.5.0	"Tobias Wunden (690)"
+D	#163	2014/04/09	"Rüdiger Rolf"	"MH-10124 delete files from streaming server"	opencast-community/matterhorn	t/MH-10124-delete-streaming-fi…	r/1.5.0	"Christoph Drießen (690)"
+D	#162	2014/04/08	"Rüdiger Rolf"	"MH-10124 delete streaming files"	opencast-community/matterhorn	t/MH-10124-delete-streaming-fi…	r/1.4.4	
+M	#161	2014/04/08	"Rüdiger Rolf"	"MH-10207 added additional configuration properties to …"	opencast-community/opencast-osnabrueck-fork	f/MH-10207-anonymous-tracking	r/1.4.4	"Greg Logan (690)"
+M	#160	2014/04/08	"Rüdiger Rolf"	"MH-10207 added additional configuration properties to …"	opencast-community/opencast-osnabrueck-fork	f/MH-10207-anonymous-tracking	r/1.5.0	"Karen Dolan (690)"
+D	#159	2014/04/07	"Edmore Moyo"	"MH-10208 : Use correct endpoint for see more dropdown"		t/MH-10208-phantom-na-see-more	develop	"Lars Kiesow (698)"
+D	#158	2014/04/07	"Christoph Drießen"	"MH-10218 -- rewrite ProcessExecutor and StreamHelper"	opencast-community/matterhorn	t/MH-10218-processexecutor-str…	r/1.5.0	"Ruben Perez Vazquez (690)"
+M	#157	2014/04/03	"Lars Kiesow"	"MH-10109, Let Extracted Text Pass Through Unmodigied"	lkiesow/matterhorn	t/MH-10109-text-extractor-text…	r/1.5.0	"Greg Logan (690)"
+M	#156	2014/04/02	"Lars Kiesow"	"MH-10031, Added support for updating the last-seen …"	lkiesow/matterhorn	t/MH-10031-update-last-seen-ti…	r/1.5.0	"Greg Logan (673)"
+M	#155	2014/04/02	"Lukas Rohner"	"MH-8967 -- Upgraded tika to version 1.4"	opencast-community/matterhorn	t/MH-8967-tika-upgrade	r/1.5.0	"Rüdiger Rolf (701)"
+M	#154	2014/04/01	"Matjaz Rihtar"	"Support for RHEL/CentOS 5.x in 3rd party tools"	opencast-community/matterhorn	t/MH-10209-RHEL-CentOS-5_x-sup…	r/1.5.0	"Greg Logan (702)"
+M	#153	2014/04/01	"Lukas Rohner"	"MH-10185 -- Fixed workflow service assert permission method"	opencast-community/matterhorn	t/MH-10185-workflow-assert-per…	r/1.5.0	"James Perrin (703)"
+M	#152	2014/04/01	"Matjaz Rihtar"	"Enforce LOCAL_PREFIX in 3rd party installs"	opencast-community/matterhorn	t/MH-10196-set-LOCAL_PREFIX	r/1.5.0	"James Perrin (704)"
+D	#151	2014/03/31	"Matjaz Rihtar"	"Enforce LOCAL_PREFIX in 3rd party installs"	opencast-community/matterhorn	t/MH-10196-set-LOCAL_PREFIX	r/1.5.0	"James Perrin (704)"
+M	#150	2014/03/27	"Lukas Rohner"	"[feature/1.5] MH-6386 -- Added support for audio …"	opencast-community/matterhorn	f/MH-6386-audio-normalization	develop	"Rüdiger Rolf (662)"
+M	#149	2014/03/26	"Lukas Rohner"	"MH-10205 -- Fixed deletion of segment catalog in text …"	opencast-community/matterhorn	t/MH-10205-text-analysis	r/1.5.0	"Tobias M Schiebeck (705)"
+M	#148	2014/03/26	"Lukas Rohner"	"MH-10204 -- Fixed parsing mediapackage URL's strings"	opencast-community/matterhorn	t/MH-10204-mediapackage-parser	r/1.5.0	"Lars Kiesow (710)"
+M	#147	2014/03/26	"Ruben Gonzalez"	"MH-10202 -- No ACL in new series when ingested a new …"	rubenrua/matterhorn	develop	develop	"Lukas Rohner (704)"
+M	#146	2014/03/25	"Lukas Rohner"	"MH-9990 -- Added workflow cleanup strategy"	opencast-community/matterhorn	t/MH-9990-job-cleanup	develop	"Benjamin Wulff (655)"
+M	#145	2014/03/25	"James Perrin"	"MH-10199: (MH-9490, MH-10200, MH-10201) get 3rd Party Tools …"	jperrin/matterhorn	t/MH-10199-3rd-party-tools-ubu…	r/1.5.0	"Greg Logan (698)"
+M	#144	2014/03/24	"Lukas Rohner"	"MH-10018 -- Added workspace cleanup operation"	opencast-community/matterhorn	t/MH-10018-workspace-cleanup	r/1.5.0	"Rüdiger Rolf (709)"
+D	#143	2014/03/24	"Basil Brunner"	"MH-10188 -- Implemented cover image workflow operation …"	myniva/matterhorn	t/MH-10188-cover-image	develop	"James Perrin (661)"
+M	#142	2014/03/22	"Karen Dolan"	"MH-10125, Show recording table when wf has one operation"	kdolan/matterhorn-opencast	t/MH-10125-Admin-UI-show-singl…	develop	"Denis Meyer (695)"
+M	#141	2014/03/21	"Greg Logan"	"MH-10192: 3rd Party Mirrors"	greg_logan/matterhorn	t/MH-10192-3rd-party-mirrors	r/1.5.0	"Denis Meyer (711)"
+M	#140	2014/03/20	"Greg Logan"	"MH-10190: Distributed ingest exception"	greg_logan/matterhorn	t/MH-10190-distributed-schedul…	r/1.5.0	"Lukas Rohner (711)"
+D	#139	2014/03/20	"Greg Logan"	"MH-10191: Duplicate Jersey dependency"	greg_logan/matterhorn	t/MH-10191-duplicate-jersey	r/1.5.0	
+M	#138	2014/03/20	"Lukas Rohner"	"MH-10189 -- Implemented incident handling and equipped …"	opencast-community/matterhorn	f/MH-10189-incident-handling	develop	"Lars Kiesow (577)"
+M	#137	2014/03/20	"Lukas Rohner"	"MH-10187 -- Added HTTP notification workflow operation …"	opencast-community/matterhorn	f/MH-10187-http-notify-operati…	develop	"Benjamin Wulff (690)"
+M	#136	2014/03/17	"Greg Logan"	"MH-10126: POM file cleanup"	greg_logan/matterhorn	t/MH-10126-pomfile-cleanup	develop	"Lars Kiesow (710)"
+M	#135	2014/03/17	"Greg Logan"	"MH-10180: Unit test cleanup to avoid /tmp"	greg_logan/matterhorn	t/MH-10180-test-paths	r/1.5.0	"Lukas Rohner (711)"
+M	#134	2014/03/12	"Basil Brunner"	"MH-10075 Handle Dublin Core XML String more gracefully in …"	myniva/matterhorn	t/MH-10075-improve-dc-string-h…	r/1.5.0	"Lars Kiesow (710)"
+M	#133	2014/03/12	"Basil Brunner"	"MH-10139 -- Payload field in mh_jobs table too small"	myniva/matterhorn	t/MH-10139-too-small-payload-f…	r/1.5.0	"James Perrin (719)"
+M	#132	2014/03/11	"Tobias Wunden"	"MH-10161 -- Admin profile can't be built"	opencast-community/matterhorn	t/MH-10161-admin-profile	r/1.5.0	"Edmore Moyo (710)"
+M	#131	2014/03/11	"Tobias Wunden"	"MH-10181 -- Removed duplicate jersey dependency"	opencast-community/matterhorn	t/MH-10181-test-dependencies	r/1.5.0	"Lars Kiesow (710)"
+M	#130	2014/03/11	"Xavier Butty"	"MH-10160 -- Implemented CUD Endpoints and related methods …"	opencast-community/matterhorn	t/MH-10160-CUD-operations-for-…	develop	"Greg Logan (676)"
+M	#129	2014/03/10	"Matjaz Rihtar"	"MH-10103: Support for .mp3 files in Sox (3rd party tools)"	opencast-community/matterhorn	t/MH-10103-add-sox-3rd-party-t…	r/1.5.0	"Greg Logan (710)"
+M	#128	2014/03/10	"Lukas Rohner"	"MH-10178 -- remove modification of namespaces in …"	opencast-community/matterhorn	t/MH-10178-trailing-slashes	r/1.5.0	"Greg Logan (710)"
+M	#127	2014/03/10	"James Perrin"	"MH-9980 Wait for asynch functions before leaving trim page …"	jperrin/matterhorn	t/MH-9980-trim-exit-after-aysn…	r/1.5.0	"Lars Kiesow (712)"
+D	#126	2014/03/10	"James Perrin"	"MH-9980 Wait for asynch functions before leaving trim page …"	jperrin/matterhorn	t/MH-9980-trim-exit-after-aysn…	r/1.4.4	
+M	#125	2014/03/08	"Lars Kiesow"	"MH-10175, Spaces in Encoding Profile arguments cause errors"	lkiesow/matterhorn	t/MH-10175-encoding-profile-sp…	r/1.5.0	"Lukas Rohner (726)"
+M	#124	2014/03/08	"Lars Kiesow"	"MH-10143, Fix Init Script Error on Debian Based Systems"	lkiesow/matterhorn	t/MH-10143-init-script-on-debi…	r/1.5.0	"Greg Logan (716)"
+M	#123	2014/03/07	"Lukas Rohner"	"MH-10170 -- Fixed adding new workflow properties to the …"	opencast-community/matterhorn	t/MH-10170-update-workflow-pro…	r/1.5.0	"Greg Logan (726)"
+M	#122	2014/03/07	"Ruben Gonzalez"	"Added support for updating the last-seen timestamp in the …"	rubenrua/matterhorn	t/MH-10031	t/MH-10031	
+M	#121	2014/03/07	"Lukas Rohner"	"MH-10169 -- Made all get by flavor methods of mediapackage …"	opencast-community/matterhorn	t/MH-10169-prepare-av	r/1.5.0	"Lars Kiesow (727)"
+M	#120	2014/03/05	"Lars Kiesow"	"MH-10166, Check for Success State when Probing for Tesseract"	lkiesow/matterhorn	t/MH-10166-check-success-when-…	r/1.5.0	"Karen Dolan (731)"
+M	#119	2014/03/05	"Lars Kiesow"	"MH-10165, Empty Dictionary Results may Cause Errors"	lkiesow/matterhorn	t/MH-10165-empty-dictionary-re…	develop	"Benjamin Wulff (710)"
+M	#118	2014/03/04	"Lukas Rohner"	"MH-10162 -- Replaced series service impl by series mock in …"	opencast-community/matterhorn	t/MH-10162	r/1.5.0	"Greg Logan (731)"
+D	#117	2014/02/28	"Lars Kiesow"	"MH-10156, Fix misspelling in LtiLaunchAuthenticationHandler"	lkiesow/matterhorn	t/MH-10156-misspelling-in-lti	r/1.5.0	"Lukas Rohner (732)"
+M	#116	2014/02/26	"Karen Dolan"	"MH-10100, update workflow global start and stop time when …"	opencast-community/matterhorn	t/MH-10100-Update-Global-Captu…	r/1.5.0	"Lukas Rohner (732)"
+M	#115	2014/02/26	"Lars Kiesow"	"MH-10141, Fix Naming of Database Upgrade Script"	lkiesow/matterhorn	t/MH-10141-fix-naming-of-db-up…	r/1.5.0	"Xavier Butty (736)"
+M	#114	2014/02/26	"Basil Brunner"	"MH-10081 -- Maven PMD plugin leads to warnings within …"	myniva/matterhorn	t/MH-10081-eclipse-pmd-errors	r/1.5.0	"Greg Logan (732)"
+M	#113	2014/02/25	"Lars Kiesow"	"MH-10138, Added Alternatives Profile to Main pom.xml (1.5)"	lkiesow/matterhorn	t/MH-10138-pom-alternatives-pr…	r/1.5.0	"Greg Logan (739)"
+M	#112	2014/02/25	"Lars Kiesow"	"MH-10138, Added Alternatives Profile to Main pom.xml (1.6)"	lkiesow/matterhorn	t/MH-10138-pom-alternatives-pr…	develop	"Greg Logan (739)"
+M	#111	2014/02/24	"Karen Dolan"	"MH-10135, Ouput Process error message during Test failure"	opencast-community/matterhorn	t/MH-10135-output-Test-Process…	r/1.5.0	"Lars Kiesow (739)"
+M	#110	2014/02/24	"Lukas Rohner"	"MH-10131 -- Fixed abstract element selector when using tags …"	opencast-community/matterhorn	t/MH-10131-element-selector	r/1.5.0	"Greg Logan (739)"
+M	#109	2014/02/23	"Lars Kiesow"	"MH-10130, Accept all 2xx HTTP Status Codes as Success"	lkiesow/matterhorn	t/MH-10130-non-200-error-in-po…	r/1.5.0	"Lukas Rohner (739)"
+M	#108	2014/02/20	"Rüdiger Rolf"	"MH-10124 delete files from streaming server when retracting"	opencast-community/matterhorn	t/MH-10124-delete-streaming-fi…	develop	"Christoph Drießen (739)"
+M	#107	2014/02/20	"Lars Kiesow"	"MH-10053, Add “matterhorn --version”"	lkiesow/matterhorn	t/MH-10053-matterhorn-version-…	r/1.5.0	"Greg Logan (739)"
+D	#106	2014/02/19	"John Crossman"	"MH-10044 : YouTube Date API V3 for Matterhorn"	uc-berkeley-matterhorn/opencast-contrib-youtube-api-v3-wct-4453	develop	develop	"Lars Kiesow (690)"
+M	#105	2014/02/19	"Fernando Alvarez"	"MH-10039 - As an administrator, I need to see detailed …"	uc-berkeley-matterhorn/mh-10039-as-an-administrator-i-need-to-see-detailed	develop	develop	"Karen Dolan (739)"
+M	#104	2014/02/19	"Lars Kiesow"	"MH-10123, Add Default-Start to SysV-Init Script"	lkiesow/matterhorn	t/MH-10123-default-start-in-in…	r/1.5.0	"Karen Dolan (739)"
+M	#103	2014/02/18	"Greg Logan"	"MH-9499: Enable volume level control on a per-input basis"	greg_logan/matterhorn	f/MH-9499-input-volume	develop	
+M	#102	2014/02/14	"Matjaz Rihtar"	"3rd party tools/scripts update"	opencast-community/matterhorn	t/MH-10047_MH-10050_MH-10080_M…	r/1.5.0	"Greg Logan (746)"
+D	#101	2014/02/13	"Greg Logan"	"MH-10112: Download Distribution Service does not properly …"	greg_logan/matterhorn	t/MH-10112-download-distribute…	r/1.5.0	"Lars Kiesow (750)"
+M	#100	2014/02/12	"Lars Kiesow"	"MH-10106, Fix Special Character Encoding in OCR"	lkiesow/matterhorn	t/MH-10106-ocr-special-char-fi…	r/1.5.0	"Karen Dolan (746)"
+M	#99	2014/02/12	"Greg Logan"	"MH-8081: Enable Jar Signing using GPG Keys"	greg_logan/matterhorn	t/MH-8091-jar-signing	develop	
+M	#98	2014/02/12	"Lars Kiesow"	"MH-10104, Fixed shortcut to build all test modules"	lkiesow/matterhorn	t/MH-10104-maven-build-tests-s…	develop	"Greg Logan (752)"
+M	#97	2014/02/10	"Greg Logan"	"MH-9948: Release Script Fixes"	greg_logan/matterhorn	t/MH-9948-release-script	develop	
+M	#96	2014/02/10	"Greg Logan"	"MH-10089: CA JUnit Fixes"	greg_logan/matterhorn	t/MH-10089-CA-junit-update	develop	"Lars Kiesow (753)"
+M	#95	2014/02/09	"Lars Kiesow"	"MH-10098, Create Pass-Through DictionaryService …"	lkiesow/matterhorn	f/MH-10098-pass-through-dictio…	develop	"Ruben Perez Vazquez (753)"
+M	#94	2014/02/08	"Lars Kiesow"	"MH-10051, Restructured DictionaryService API"	lkiesow/matterhorn	t/MH-10051-simplify-dictionary…	develop	"Ruben Perez Vazquez (753)"
+M	#93	2014/02/06	"Xavier Butty"	"MH-10077, Wrong privileges in View Details of Series"	opencast-community/matterhorn	t/MH-10077	develop	"Rüdiger Rolf (753)"
+M	#92	2014/02/04	"Lars Kiesow"	"MH-10087, Create Maven Property to Build all Profiles"	opencast-community/matterhorn	t/MH-10087-maven-build-all-pro…	develop	"Greg Logan (757)"
+M	#91	2014/02/02	"Lars Kiesow"	"MH-10074, Fix CheckStyle rule for trailing spaces"	lkiesow/matterhorn	t/MH-10074-checkstyle-fix-trai…	develop	"Greg Logan (761)"
+M	#90	2014/02/01	"Lars Kiesow"	"MH-10073, Fixed typo and added further explanation in …"	lkiesow/matterhorn	t/MH-10073-typo-in-man-page	develop	
+M	#89	2014/01/31	"Greg Logan"	"MH-9948: Fixing a couple of minor issues with the tag script"	greg_logan/matterhorn	t/MH-9948-tag-in-wrong-place	r/1.4.2	
+M	#88	2014/01/31	"Lars Kiesow"	"MH-10059, Re-Enable No-Tab CheckStyle Rules"	lkiesow/matterhorn	t/MH-10059-checkstyle-no-tabs	r/1.4.2	
+M	#87	2014/01/30	"Lars Kiesow"	"MH-10057, Replacing the bad default dictionaries with less …"	lkiesow/matterhorn	t/MH-10057-dictionaries	r/1.4.2	"Greg Logan (765)"
+M	#86	2014/01/29	"James Perrin"	"MH-10034, temporary fix to stop gathering of unused job …"	jperrin/matterhorn	t/MH-10034-jobstatistics	r/1.4.2	"Lars Kiesow (765)"
+M	#85	2014/01/28	"Greg Logan"	"MH-9799: Enable PMD and Findbugs with default build"	greg_logan/matterhorn	t/MH-9979-code-analysis	r/1.4.2	"Lars Kiesow (766)"
+M	#84	2014/01/27	"Greg Logan"	"MH-9843: Fixes some broken internationalization in the …"	greg_logan/matterhorn	t/MH-9843-recurring-scheduler-…	r/1.4.2	
+M	#83	2014/01/27	"Greg Logan"	"Fixing MH-9981, you should no longer be able to deselect …"	greg_logan/matterhorn	t/MH-9981-disable-all-trim-tra…	r/1.4.2	
+M	#82	2014/01/27	"Greg Logan"	"[develop/1.5] MH-9936: Delay between element publication"	greg_logan/matterhorn	f/MH-9936-element-distribution…	develop	"Lars Kiesow (764)"
+M	#81	2014/01/27	"Lars Kiesow"	"MH-10054, Fixed JSON in post-mediapackge workflow operation"	lkiesow/matterhorn	t/MH-10054-mediapackagepost-js…	develop	
+M	#80	2014/01/24	"Greg Logan"	"[feature/1.5] MH-9499: Enable volume level control on a …"	greg_logan/matterhorn	f/MH-9499-input-volume	develop	
+M	#79	2014/01/24	"Lars Kiesow"	"[fature/1.5] MH-9467, New Init Scripts"	lkiesow/matterhorn	f/MH-9467-init-script	develop	
+D	#78	2014/01/23	"John Crossman"	"WCT-4489 : Calls from bCourses cause 403 within MH due to …"	opencast-community/matterhorn-berkeley-fork	develop	master	
+M	#77	2014/01/22	"Greg Logan"	"MH-9948: Improvement for git tag and branch scripts"	greg_logan/matterhorn	t/MH-9948-better-release-scrip…	r/1.4.2	
+M	#76	2014/01/22	"naomi maekawa"	MH-10043-zip-op-target-flavor-default-value		t/MH-10043-zip-op-target-flavo…	r/1.4.2	
+M	#75	2014/01/22	"Lukas Rohner"	"MH-9890 -- made sure the workflow configuration is applied …"	opencast-community/matterhorn	t/MH-9890-workflow-properties	r/1.4.2	
+D	#74	2014/01/21	"Lukas Rohner"	"MH-9890 -- made sure the workflow configuration is applied …"	opencast-community/matterhorn	t/MH-9890-workflow-properties	r/1.4.2	
+D	#73	2014/01/21	"Tobias Wunden"	"MH-9890 -- made sure the workflow configuration is applied …"	opencast-community/matterhorn	t/MH-9890-workflow-properties	develop	
+M	#72	2014/01/20	"Rüdiger Rolf"	"MH-8550 Added Configuration Manger UI to edit Matterhorn …"	opencast-community/matterhorn	f/MH-8550-configuration-manage…	develop	
+D	#71	2014/01/20	"Lukas Rohner"	"[feature/1.5] MH-6386 -- Added support for audio …"	opencast-community/matterhorn	f/MH-6386-audio-normalization	develop	
+M	#70	2014/01/20	"Lars Kiesow"	"[1.4.2] MH-10026 – Remove OCRopus Textextraction"	lkiesow/matterhorn	t/MH-10026-remove-ocropus-text…	r/1.4.2	
+M	#69	2014/01/20	"Lars Kiesow"	"[1.4.2] MH-10048, Removed YouTube option from UI"	lkiesow/matterhorn	t/MH-10048-rm-obsolete-workflo…	r/1.4.2	
+M	#68	2014/01/20	"Lars Kiesow"	"[develop/1.5] MH-10046, Update encoding profiles"	lkiesow/matterhorn	t/MH-10046-update-encoding-pro…	develop	
+M	#67	2014/01/19	"Lukas Rohner"	"MH-10045 -- Changed composer time granularity to …"	opencast-community/matterhorn	t/MH-10045	develop	
+M	#66	2014/01/16	"James Perrin"	"MH-9980, Pressing Continue after trimming takes you nowhere"	jperrin/matterhorn	t/MH-9980-trim-continue-deaden…	r/1.4.2	
+D	#65	2014/01/14	"John Crossman"	"YouTube makeVideosPrivate_prod=false"	opencast-community/matterhorn-berkeley-fork	WCT-4458-youtube-public-in-pro…	develop	
+M	#64	2014/01/13	"Christoph Drießen"	"MH-10042 -- fix display of workflow runtime (end date) on …"	opencast-community/matterhorn	t/MH-10042	r/1.4.2	
+M	#63	2014/01/13	"Lukas Rohner"	"MH-8537 -- Added delete from archive workflow operation …"	opencast-community/matterhorn	t/MH-8537	r/1.4.2	
+M	#62	2014/01/11	"Lars Kiesow"	"[feature/1.5] MH-10040, Add configuration options for …"	lkiesow/matterhorn	f/MH-10040-tesseract-configura…	develop	
+M	#61	2014/01/08	"Lars Kiesow"	"MH-10036, Fixed Tesseract text extractor tests"	lkiesow/matterhorn	t/MH-10036-tesseract-text-extr…	r/1.4.2	
+M	#60	2014/01/08	"Lars Kiesow"	"MH-10035, Autocreate indox directory"	lkiesow/matterhorn	t/MH-10035-autocreate-inbox-di…	r/1.4.2	
+M	#59	2014/01/08	"Lars Kiesow"	"MH-9787, Configuration option for zip archive tmp dir"	lkiesow/matterhorn	t/MH-9787-archive-temp-locatio…	r/1.4.2	
+M	#58	2014/01/06	"Karen Dolan"	"MH-10022 Trim UI 'New Length' duration parse"	kdolan/matterhorn-opencast	t/MH-10022-trim-ui-duration	r/1.4.2	
+M	#57	2014/01/06	"Karen Dolan"	"MH-10030 Trim UI, click start of sc[r]ubber fix"	kdolan/matterhorn-opencast	t/MH-10030-trim-click-scubber	r/1.4.2	
+D	#56	2014/01/06	"Lukas Rohner"	"MH-10031 -- Added support for updating the last-seen …"	opencast-community/matterhorn	t/MH-10031	r/1.4.2	
+M	#55	2014/01/03	"Greg Logan"	"MH-9948: Updated tag script, and re-adding pom file mangling"	greg_logan/matterhorn	t/MH-9948-fix-remaining-script…	develop	
+M	#54	2013/12/27	"Lars Kiesow"	"[feature/1.5] MH-9668 -- FFmpeg Media Inspector"	lkiesow/matterhorn	f/MH-9668-replace-mediainfo-wi…	develop	
+M	#53	2013/12/24	"Lars Kiesow"	"MH-10023, Added some maven stuff to .gitignore"	lkiesow/matterhorn	t/MH-10023-gitignore	develop	
+M	#52	2013/12/20	"James Perrin"	"MH-9673, check, throw and catch the NotFoundExcecption"	jperrin/matterhorn	t/MH-9673-worflow-rest-http	develop	
+M	#51	2013/12/20	"James Perrin"	"MH-3832, Scheduling UI: order of errors should match order …"	jperrin/matterhorn	t/MH-3832-scheduler-error-orde…	develop	
+M	#50	2013/12/20	"James Perrin"	"MH-9591, Recording tab, seachbox size"	jperrin/matterhorn	t/MH-9591-rec-tab-search-size	develop	
+M	#49	2013/12/20	"James Perrin"	"MH-10021, misspelt fns in WorkflowDefinitionScanner"	jperrin/matterhorn	t/MH10021-misspelt-fns	develop	
+M	#48	2013/12/19	"James Perrin"	"MH-9844, Series title update only effects first 20 recs"	jperrin/matterhorn	t/MH-9844-series-edit-update-r…	develop	
+M	#47	2013/12/19	"Lars Kiesow"	"MH-10020, Included database presets in config.properties"	lkiesow/matterhorn	t/MH-10020-mysql-configuration…	develop	
+M	#46	2013/12/18	"James Perrin"	"MH-9757,MH-9559 NPEs in ZipWorkflowOperationHandler"	jperrin/matterhorn	t/MH-9757_9759-npe-zip-operati…	develop	
+M	#45	2013/12/18	"Lukas Rohner"	"MH-10018 — Fixed workspace delete from collection"	opencast-community/matterhorn	t/MH-10018	develop	
+M	#44	2013/12/18	"Lukas Rohner"	"MH-10011 — Deleting removed mediapackage elements, when …"	opencast-community/matterhorn	t/MH-10011	develop	
+M	#43	2013/12/16	"Lukas Rohner"	"[feature/1.5] MH-10013 -- As an administrator, I need …"	opencast-community/matterhorn	f/MH-10013-security-acl	develop	
+M	#42	2013/12/12	"Lukas Rohner"	"[feature/1.5] MH-10006, MH-10007, MH-10008 — Extended …"	opencast-community/matterhorn	f/MH-10006-composer-extensions	develop	
+M	#41	2013/12/12	"Greg Logan"	"MH-9939: Fix to ensure CA install script updates before …"	greg_logan/matterhorn	t/MH-9399-CA-installer-git	develop	
+M	#40	2013/12/10	"Lars Kiesow"	"MH-10004, Removed database selection from ddl script"	lkiesow/matterhorn	t/MH-10004-dont-switch-db-in-d…	develop	
+M	#39	2013/12/10	"Lars Kiesow"	"MH-10002, Fixed error handling of web uploads"	lkiesow/matterhorn	t/MH-10002-web-upload-error-ha…	develop	
+D	#38	2013/11/29	"Lars Kiesow"	"MH-9994, Included Automatic Parent Versioning"	lkiesow/matterhorn	t/MH-9994-automatic-parent-ver…	develop	
+M	#37	2013/11/28	"Greg Logan"	"Committing fix for MH-9991. Strips out useless svn-reliant …"	greg_logan/matterhorn	t/MH-9991-confidence-monitor-s…	develop	
+M	#36	2013/11/26	"Lars Kiesow"	"[feature/1.5] MH-9989 – Workflowoperation to send …"	lkiesow/matterhorn	f/MH-9989-workflowoperation-me…	develop	
+M	#35	2013/11/26	"Lars Kiesow"	"MH-9987, Search also for ID when executing a fulltext search"	lkiesow/matterhorn	t/MH-9987-episode-id-fulltext-…	develop	
+M	#34	2013/11/25	"Lukas Rohner"	"MH-9963 — Fixed ignored workflows leave behind working files"	opencast-community/matterhorn	t/MH-9963	develop	
+M	#33	2013/11/23	"Lars Kiesow"	"MH-9984, added autofocus to login form"	lkiesow/matterhorn	t/MH-9984-autofocus-login-dial…	develop	
+M	#32	2013/11/23	"Lars Kiesow"	"MH-9814, included fix into embed player"	lkiesow/matterhorn	t/MH-9814-session-id-fix	develop	
+M	#31	2013/11/22	"Waldemar Smirnow"	"MH-9856 ConfidenceMonitoring crashes fixed"	wsmirnow/matterhorn	t/MH-9856-confdence-monitoring…	develop	
+D	#30	2013/11/19	"Lars Kiesow"	"MH-9984, added autofocus to login form"	lkiesow/matterhorn	t/MH-9984-autofocus-login-dial…	r/1.4.1	
+D	#29	2013/11/18	"Lars Kiesow"	"MH-9814, included fix into embed player"	lkiesow/matterhorn	t/MH-9814-session-id-fix	r/1.4.1	
+D	#28	2013/11/11	"Waldemar Smirnow"	"MH-9856 Confidence monitoring crashes fixed"	opencast-community/opencast-osnabrueck-fork	t/MH-9856-capture-agent-crashe…	t/MH-9856-ca…	
+M	#27	2013/11/11	"James Perrin"	"MH-9973, Fixed, bad redirects for welcomePage property fails"	jperrin/matterhorn	t/MH-9973-spring-welcomepages-…	r/1.4.1	
+M	#26	2013/11/10	"Tobias Wunden"	"MH-9968 -- prevented an endless error loop"	opencast-community/matterhorn	f/MH-9968-endless-error-loop	r/1.4.1	
+M	#25	2013/11/08	"Tobias Wunden"	"MH-9964 -- fixed an error where a reingested mediapackage …"	opencast-community/matterhorn	f/MH-9964-jobs-remaining-in-di…	r/1.4.1	
+D	#24	2013/11/07	"Tobias Wunden"	"MH-9968 -- prevented an endless error loop"	opencast-community/matterhorn	f/MH-9968-endless-error-loop	r/1.4.1	
+M	#23	2013/11/07	"Tobias Wunden"	"MH-9967 -- implemented support for target-tags and …"	opencast-community/matterhorn	f/MH-9967-zip-cleanup	r/1.4.1	
+M	#22	2013/11/07	"Tobias Wunden"	"MH-9963 -- Added cleanup of mediapackage elements from the …"	opencast-community/matterhorn	f/MH-9963-working-files-cleanu…	r/1.4.1	
+M	#21	2013/11/07	"Tobias Wunden"	"MH-9965 -- Search requests can get stuck in an endless loop"	opencast-community/matterhorn	f/MH-9965-search-requests-endl…	r/1.4.1	
+M	#20	2013/11/06	"Greg Logan"	"MH-9958: Fix for the missing inbox"	greg_logan/matterhorn	t/MH-9958-missing-inbox	r/1.4.1	
+M	#19	2013/11/01	"Greg Logan"	"MH-9817: The forgotten fix"	greg_logan/matterhorn	t/MH-9817-build-profiles	r/1.4.1	
+M	#18	2013/10/31	"Tobias Wunden"	"MH-9954 -- Recordings ignored from hold/review leave behind …"	opencast-community/matterhorn	f/MH-9954	r/1.4.1	
+M	#17	2013/10/31	"Greg Logan"	"MH-9948: Fix for remaining SVN-based scripts"	greg_logan/matterhorn	t/MH-9948-fix-remaining-script…	r/1.4.1	
+M	#16	2013/10/31	"Rute Santos"	"MH-9688 - 4310fbe - Now supports zip with no root folder"	opencast-community/matterhorn-harvard-fork	t/MH-9688-add-zipped-mp-no-roo…	r/1.4.1	
+M	#15	2013/10/30	"Lars Kiesow"	"MH-9899, Fixed compilation problem with tag docs"	lkiesow/matterhorn	t/MH-9899-episode-REST-docs	r/1.4.1	
+M	#14	2013/10/30	"Greg Logan"	"MH-6312: Update for the vmbuilder script to use Git"	greg_logan/matterhorn	t/MH-6312-vmbuilder-git-update	r/1.4.1	
+M	#13	2013/10/30	"Greg Logan"	"MH-9399: CA Installer Git update"	greg_logan/matterhorn	t/MH-9399-CA-installer-git	r/1.4.1	
+M	#12	2013/10/30	"Greg Logan"	"MH-9793: Update for POM data"	greg_logan/matterhorn	t/MH-9793-pom-update	r/1.4.1	
+D	#11	2013/10/30	"Rute Santos"	"MH-9688 - 4310fbe - Now supports zip with no root folder"	opencast-community/matterhorn-harvard-fork	t/MH-9688-add-zipped-mp-no-roo…	t/MH-9688-ad…	
+M	#10	2013/10/30	"Lars Kiesow"	"MH-9922, Removed series switch from search/series REST …"	lkiesow/matterhorn	t/MH-9922-series-switch-in-sea…	r/1.4.1	
+M	#9	2013/10/30	"Lars Kiesow"	"MH-9899, Fixed episode REST endpoint documentation"	lkiesow/matterhorn	t/MH-9899-episode-REST-docs	r/1.4.1	
+M	#8	2013/10/29	"Greg Logan"	"Fix for MH-9817"	greg_logan/matterhorn	t/MH-9817-build-profiles	r/1.4.1	
+M	#7	2013/10/29	"Lars Kiesow"	"MH-9951, Fixed tabs/spaces in main pom.xml"	lkiesow/matterhorn	t/MH-9951-tabs-spaces-in-pom	develop	
+M	#6	2013/10/25	"Greg Logan"	"Fix for MH-9949"	greg_logan/matterhorn	t/MH-9949-pom-versions	r/1.4.1	
+M	#5	2013/10/25	"Lars Kiesow"	"MH-9716, added lkiesow to list of developers"	lkiesow/matterhorn	t/MH-9716-add-new-committer	develop	
+D	#4	2013/10/25	"Wimpie de Klerk"	MH-9936		t/MH-9936	r/1.4.1	
+M	#3	2013/10/25	"James Perrin"	"MH-8911, Fixed capitalization of series args"	jperrin/matterhorn	t/MH8911-workflows-instances-j…	r/1.4.1	
+D	#2	2013/10/24	"James Perrin"	"MH-8911, Fixed capitalization of args"		t/MH-8911-workflow-instances-j…	r/1.4.1	
+D	#1	2013/10/21	"Lukas Rohner"	"Test pull request"	opencast-community/matterhorn	develop	r/1.4.1	
